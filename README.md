@@ -1,5 +1,5 @@
 # Pokemon IV Checker
-
+ウェブURL:https://cy24237-wq.github.io/pokemon-iv-checker/
 ## 概要
 ポケモンSVの個体値を評価するWebアプリです。  
 ポケモン名を入力すると、登録されたデータをもとに個体値や種族値を確認でき、育成判断をサポートします。
