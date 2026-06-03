@@ -8,7 +8,7 @@
     <meta name="viewport"
           content="width=device-width, initial-scale=1.0">
 
-    <title>ポケモンSV 個体値チェッカー</title>
+    <title>ポケモンSV 個体値評価ツール</title>
 
     <link rel="stylesheet" href="style.css">
 
@@ -16,19 +16,22 @@
 
 <body>
 
-    <h1>ポケモンSV 個体値チェッカー</h1>
+    <h1>ポケモンSV 個体値評価ツール</h1>
 
     <div class="container">
 
-        <!-- ポケモン名入力 -->
-        <input id="name"
+        <!-- 名前入力 -->
+        <input
+            id="name"
             placeholder="ポケモン名 例：ピカチュウ"
             oninput="showSuggestions()">
 
+
+        <!-- 候補 -->
         <div id="suggestionArea"></div>
 
 
-        <!-- ポケモン取得 -->
+        <!-- 取得 -->
         <button onclick="getPokemon()">
 
             ポケモン取得
@@ -40,11 +43,11 @@
         <img id="pokemonImage">
 
 
-        <!-- ポケモン情報 -->
+        <!-- 情報 -->
         <p id="pokemonInfo"></p>
 
 
-        <!-- 個体値入力 -->
+        <!-- 個体値 -->
         <input id="hp"
                type="number"
                min="0"
@@ -101,14 +104,6 @@
         <hr>
 
 
-        <!-- OCR -->
-        <h2>OCR画像読み取り</h2>
-
-        <input type="file"
-               id="imageInput"
-               accept="image/*">
-
-
         <!-- 結果 -->
         <div class="result">
 
@@ -137,10 +132,6 @@
 
     <!-- Chart.js -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-
-    <!-- OCR -->
-    <script src="https://unpkg.com/tesseract.js@v2.1.0/dist/tesseract.min.js"></script>
 
 
     <!-- script -->
