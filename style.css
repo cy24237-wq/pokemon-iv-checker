@@ -11,10 +11,14 @@ body {
     padding: 20px;
 }
 
+
+
 h1 {
 
     font-size: 28px;
 }
+
+
 
 .container {
 
@@ -22,7 +26,7 @@ h1 {
 
     width: 90%;
 
-    max-width: 450px;
+    max-width: 500px;
 
     margin: auto;
 
@@ -32,6 +36,8 @@ h1 {
 
     box-shadow: 0 0 10px gray;
 }
+
+
 
 input {
 
@@ -47,6 +53,8 @@ input {
 
     border: 1px solid gray;
 }
+
+
 
 button {
 
@@ -69,10 +77,14 @@ button {
     cursor: pointer;
 }
 
+
+
 button:hover {
 
     opacity: 0.8;
 }
+
+
 
 #pokemonImage {
 
@@ -81,10 +93,23 @@ button:hover {
     margin-top: 10px;
 }
 
+
+
+#pokemonInfo {
+
+    font-weight: bold;
+
+    margin-top: 10px;
+}
+
+
+
 .result {
 
     margin-top: 20px;
 }
+
+
 
 .judge {
 
@@ -99,6 +124,8 @@ button:hover {
     font-weight: bold;
 }
 
+
+
 .best {
 
     background: gold;
@@ -106,35 +133,49 @@ button:hover {
     color: black;
 }
 
+
+
 .good {
 
     background: #4CAF50;
 }
+
+
 
 .normal {
 
     background: #2196F3;
 }
 
+
+
 .bad {
 
     background: red;
 }
+
+
 
 .low {
 
     background: darkred;
 }
 
+
+
 .saveArea {
 
     margin-top: 20px;
 }
 
+
+
 ul {
 
     padding: 0;
 }
+
+
 
 li {
 
@@ -149,10 +190,47 @@ li {
     border-radius: 8px;
 }
 
+
+
 canvas {
 
     margin-top: 20px;
 }
+
+
+
+#suggestionArea {
+
+    width: 90%;
+
+    margin: 0 auto 10px auto;
+
+    text-align: left;
+}
+
+
+
+.suggestion {
+
+    background: #eeeeee;
+
+    padding: 10px;
+
+    border-radius: 8px;
+
+    margin: 3px 0;
+
+    cursor: pointer;
+}
+
+
+
+.suggestion:hover {
+
+    background: #dcdcdc;
+}
+
+
 
 @media screen and (max-width: 600px) {
 
@@ -170,21 +248,4 @@ canvas {
 
         font-size: 14px;
     }
-}
-#suggestionArea {
-    width: 90%;
-    margin: 0 auto 10px auto;
-    text-align: left;
-}
-
-.suggestion {
-    background: #eeeeee;
-    padding: 10px;
-    border-radius: 8px;
-    margin: 3px 0;
-    cursor: pointer;
-}
-
-.suggestion:hover {
-    background: #dcdcdc;
 }
