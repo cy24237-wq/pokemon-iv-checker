@@ -1,0 +1,9753 @@
+[
+  {
+    "ja": "フシギダネ",
+    "en": "bulbasaur",
+    "apiName": "bulbasaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "フシギソウ",
+    "en": "ivysaur",
+    "apiName": "ivysaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "フシギバナ",
+    "en": "venusaur",
+    "apiName": "venusaur",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ヒトカゲ",
+    "en": "charmander",
+    "apiName": "charmander",
+    "types": [
+      "fire"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "リザード",
+    "en": "charmeleon",
+    "apiName": "charmeleon",
+    "types": [
+      "fire"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "リザードン",
+    "en": "charizard",
+    "apiName": "charizard",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ゼニガメ",
+    "en": "squirtle",
+    "apiName": "squirtle",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "カメール",
+    "en": "wartortle",
+    "apiName": "wartortle",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "カメックス",
+    "en": "blastoise",
+    "apiName": "blastoise",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "キャタピー",
+    "en": "caterpie",
+    "apiName": "caterpie",
+    "types": [
+      "bug"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "トランセル",
+    "en": "metapod",
+    "apiName": "metapod",
+    "types": [
+      "bug"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "バタフリー",
+    "en": "butterfree",
+    "apiName": "butterfree",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ビードル",
+    "en": "weedle",
+    "apiName": "weedle",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "コクーン",
+    "en": "kakuna",
+    "apiName": "kakuna",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "スピアー",
+    "en": "beedrill",
+    "apiName": "beedrill",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ポッポ",
+    "en": "pidgey",
+    "apiName": "pidgey",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ピジョン",
+    "en": "pidgeotto",
+    "apiName": "pidgeotto",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ピジョット",
+    "en": "pidgeot",
+    "apiName": "pidgeot",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "コラッタ",
+    "en": "rattata",
+    "apiName": "rattata",
+    "types": [
+      "normal"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ラッタ",
+    "en": "raticate",
+    "apiName": "raticate",
+    "types": [
+      "normal"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "オニスズメ",
+    "en": "spearow",
+    "apiName": "spearow",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "オニドリル",
+    "en": "fearow",
+    "apiName": "fearow",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "アーボ",
+    "en": "ekans",
+    "apiName": "ekans",
+    "types": [
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "アーボック",
+    "en": "arbok",
+    "apiName": "arbok",
+    "types": [
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ピカチュウ",
+    "en": "pikachu",
+    "apiName": "pikachu",
+    "types": [
+      "electric"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ライチュウ",
+    "en": "raichu",
+    "apiName": "raichu",
+    "types": [
+      "electric"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "サンド",
+    "en": "sandshrew",
+    "apiName": "sandshrew",
+    "types": [
+      "ground"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "サンドパン",
+    "en": "sandslash",
+    "apiName": "sandslash",
+    "types": [
+      "ground"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ニドラン♀",
+    "en": "nidoran-f",
+    "apiName": "nidoran-f",
+    "types": [
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ニドリーナ",
+    "en": "nidorina",
+    "apiName": "nidorina",
+    "types": [
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ニドクイン",
+    "en": "nidoqueen",
+    "apiName": "nidoqueen",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ニドラン♂",
+    "en": "nidoran-m",
+    "apiName": "nidoran-m",
+    "types": [
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ニドリーノ",
+    "en": "nidorino",
+    "apiName": "nidorino",
+    "types": [
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ニドキング",
+    "en": "nidoking",
+    "apiName": "nidoking",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ピッピ",
+    "en": "clefairy",
+    "apiName": "clefairy",
+    "types": [
+      "fairy"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ピクシー",
+    "en": "clefable",
+    "apiName": "clefable",
+    "types": [
+      "fairy"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ロコン",
+    "en": "vulpix",
+    "apiName": "vulpix",
+    "types": [
+      "fire"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "キュウコン",
+    "en": "ninetales",
+    "apiName": "ninetales",
+    "types": [
+      "fire"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "プリン",
+    "en": "jigglypuff",
+    "apiName": "jigglypuff",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "プクリン",
+    "en": "wigglytuff",
+    "apiName": "wigglytuff",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ズバット",
+    "en": "zubat",
+    "apiName": "zubat",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ゴルバット",
+    "en": "golbat",
+    "apiName": "golbat",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ナゾノクサ",
+    "en": "oddish",
+    "apiName": "oddish",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "クサイハナ",
+    "en": "gloom",
+    "apiName": "gloom",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ラフレシア",
+    "en": "vileplume",
+    "apiName": "vileplume",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "パラス",
+    "en": "paras",
+    "apiName": "paras",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "パラセクト",
+    "en": "parasect",
+    "apiName": "parasect",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "コンパン",
+    "en": "venonat",
+    "apiName": "venonat",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "モルフォン",
+    "en": "venomoth",
+    "apiName": "venomoth",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ディグダ",
+    "en": "diglett",
+    "apiName": "diglett",
+    "types": [
+      "ground"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ダグトリオ",
+    "en": "dugtrio",
+    "apiName": "dugtrio",
+    "types": [
+      "ground"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ニャース",
+    "en": "meowth",
+    "apiName": "meowth",
+    "types": [
+      "normal"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ペルシアン",
+    "en": "persian",
+    "apiName": "persian",
+    "types": [
+      "normal"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "コダック",
+    "en": "psyduck",
+    "apiName": "psyduck",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ゴルダック",
+    "en": "golduck",
+    "apiName": "golduck",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "マンキー",
+    "en": "mankey",
+    "apiName": "mankey",
+    "types": [
+      "fighting"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "オコリザル",
+    "en": "primeape",
+    "apiName": "primeape",
+    "types": [
+      "fighting"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ガーディ",
+    "en": "growlithe",
+    "apiName": "growlithe",
+    "types": [
+      "fire"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ウインディ",
+    "en": "arcanine",
+    "apiName": "arcanine",
+    "types": [
+      "fire"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ニョロモ",
+    "en": "poliwag",
+    "apiName": "poliwag",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ニョロゾ",
+    "en": "poliwhirl",
+    "apiName": "poliwhirl",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ニョロボン",
+    "en": "poliwrath",
+    "apiName": "poliwrath",
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ケーシィ",
+    "en": "abra",
+    "apiName": "abra",
+    "types": [
+      "psychic"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ユンゲラー",
+    "en": "kadabra",
+    "apiName": "kadabra",
+    "types": [
+      "psychic"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "フーディン",
+    "en": "alakazam",
+    "apiName": "alakazam",
+    "types": [
+      "psychic"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ワンリキー",
+    "en": "machop",
+    "apiName": "machop",
+    "types": [
+      "fighting"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ゴーリキー",
+    "en": "machoke",
+    "apiName": "machoke",
+    "types": [
+      "fighting"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "カイリキー",
+    "en": "machamp",
+    "apiName": "machamp",
+    "types": [
+      "fighting"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "マダツボミ",
+    "en": "bellsprout",
+    "apiName": "bellsprout",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ウツドン",
+    "en": "weepinbell",
+    "apiName": "weepinbell",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ウツボット",
+    "en": "victreebel",
+    "apiName": "victreebel",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "メノクラゲ",
+    "en": "tentacool",
+    "apiName": "tentacool",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ドククラゲ",
+    "en": "tentacruel",
+    "apiName": "tentacruel",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "イシツブテ",
+    "en": "geodude",
+    "apiName": "geodude",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ゴローン",
+    "en": "graveler",
+    "apiName": "graveler",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ゴローニャ",
+    "en": "golem",
+    "apiName": "golem",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ポニータ",
+    "en": "ponyta",
+    "apiName": "ponyta",
+    "types": [
+      "fire"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ギャロップ",
+    "en": "rapidash",
+    "apiName": "rapidash",
+    "types": [
+      "fire"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ヤドン",
+    "en": "slowpoke",
+    "apiName": "slowpoke",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ヤドラン",
+    "en": "slowbro",
+    "apiName": "slowbro",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "コイル",
+    "en": "magnemite",
+    "apiName": "magnemite",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "レアコイル",
+    "en": "magneton",
+    "apiName": "magneton",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "カモネギ",
+    "en": "farfetchd",
+    "apiName": "farfetchd",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ドードー",
+    "en": "doduo",
+    "apiName": "doduo",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ドードリオ",
+    "en": "dodrio",
+    "apiName": "dodrio",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "パウワウ",
+    "en": "seel",
+    "apiName": "seel",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ジュゴン",
+    "en": "dewgong",
+    "apiName": "dewgong",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ベトベター",
+    "en": "grimer",
+    "apiName": "grimer",
+    "types": [
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ベトベトン",
+    "en": "muk",
+    "apiName": "muk",
+    "types": [
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "シェルダー",
+    "en": "shellder",
+    "apiName": "shellder",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "パルシェン",
+    "en": "cloyster",
+    "apiName": "cloyster",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ゴース",
+    "en": "gastly",
+    "apiName": "gastly",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ゴースト",
+    "en": "haunter",
+    "apiName": "haunter",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ゲンガー",
+    "en": "gengar",
+    "apiName": "gengar",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "イワーク",
+    "en": "onix",
+    "apiName": "onix",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "スリープ",
+    "en": "drowzee",
+    "apiName": "drowzee",
+    "types": [
+      "psychic"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "スリーパー",
+    "en": "hypno",
+    "apiName": "hypno",
+    "types": [
+      "psychic"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "クラブ",
+    "en": "krabby",
+    "apiName": "krabby",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "キングラー",
+    "en": "kingler",
+    "apiName": "kingler",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ビリリダマ",
+    "en": "voltorb",
+    "apiName": "voltorb",
+    "types": [
+      "electric"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "マルマイン",
+    "en": "electrode",
+    "apiName": "electrode",
+    "types": [
+      "electric"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "タマタマ",
+    "en": "exeggcute",
+    "apiName": "exeggcute",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ナッシー",
+    "en": "exeggutor",
+    "apiName": "exeggutor",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "カラカラ",
+    "en": "cubone",
+    "apiName": "cubone",
+    "types": [
+      "ground"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ガラガラ",
+    "en": "marowak",
+    "apiName": "marowak",
+    "types": [
+      "ground"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "サワムラー",
+    "en": "hitmonlee",
+    "apiName": "hitmonlee",
+    "types": [
+      "fighting"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "エビワラー",
+    "en": "hitmonchan",
+    "apiName": "hitmonchan",
+    "types": [
+      "fighting"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ベロリンガ",
+    "en": "lickitung",
+    "apiName": "lickitung",
+    "types": [
+      "normal"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ドガース",
+    "en": "koffing",
+    "apiName": "koffing",
+    "types": [
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "マタドガス",
+    "en": "weezing",
+    "apiName": "weezing",
+    "types": [
+      "poison"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "サイホーン",
+    "en": "rhyhorn",
+    "apiName": "rhyhorn",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "サイドン",
+    "en": "rhydon",
+    "apiName": "rhydon",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ラッキー",
+    "en": "chansey",
+    "apiName": "chansey",
+    "types": [
+      "normal"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "モンジャラ",
+    "en": "tangela",
+    "apiName": "tangela",
+    "types": [
+      "grass"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ガルーラ",
+    "en": "kangaskhan",
+    "apiName": "kangaskhan",
+    "types": [
+      "normal"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "タッツー",
+    "en": "horsea",
+    "apiName": "horsea",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "シードラ",
+    "en": "seadra",
+    "apiName": "seadra",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "トサキント",
+    "en": "goldeen",
+    "apiName": "goldeen",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "アズマオウ",
+    "en": "seaking",
+    "apiName": "seaking",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ヒトデマン",
+    "en": "staryu",
+    "apiName": "staryu",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "スターミー",
+    "en": "starmie",
+    "apiName": "starmie",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "バリヤード",
+    "en": "mr-mime",
+    "apiName": "mr-mime",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ストライク",
+    "en": "scyther",
+    "apiName": "scyther",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ルージュラ",
+    "en": "jynx",
+    "apiName": "jynx",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "エレブー",
+    "en": "electabuzz",
+    "apiName": "electabuzz",
+    "types": [
+      "electric"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ブーバー",
+    "en": "magmar",
+    "apiName": "magmar",
+    "types": [
+      "fire"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "カイロス",
+    "en": "pinsir",
+    "apiName": "pinsir",
+    "types": [
+      "bug"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ケンタロス",
+    "en": "tauros",
+    "apiName": "tauros",
+    "types": [
+      "normal"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "コイキング",
+    "en": "magikarp",
+    "apiName": "magikarp",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ギャラドス",
+    "en": "gyarados",
+    "apiName": "gyarados",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ラプラス",
+    "en": "lapras",
+    "apiName": "lapras",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "メタモン",
+    "en": "ditto",
+    "apiName": "ditto",
+    "types": [
+      "normal"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "イーブイ",
+    "en": "eevee",
+    "apiName": "eevee",
+    "types": [
+      "normal"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "シャワーズ",
+    "en": "vaporeon",
+    "apiName": "vaporeon",
+    "types": [
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "サンダース",
+    "en": "jolteon",
+    "apiName": "jolteon",
+    "types": [
+      "electric"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ブースター",
+    "en": "flareon",
+    "apiName": "flareon",
+    "types": [
+      "fire"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ポリゴン",
+    "en": "porygon",
+    "apiName": "porygon",
+    "types": [
+      "normal"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "オムナイト",
+    "en": "omanyte",
+    "apiName": "omanyte",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "オムスター",
+    "en": "omastar",
+    "apiName": "omastar",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "カブト",
+    "en": "kabuto",
+    "apiName": "kabuto",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "カブトプス",
+    "en": "kabutops",
+    "apiName": "kabutops",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "プテラ",
+    "en": "aerodactyl",
+    "apiName": "aerodactyl",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "カビゴン",
+    "en": "snorlax",
+    "apiName": "snorlax",
+    "types": [
+      "normal"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "フリーザー",
+    "en": "articuno",
+    "apiName": "articuno",
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "サンダー",
+    "en": "zapdos",
+    "apiName": "zapdos",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ファイヤー",
+    "en": "moltres",
+    "apiName": "moltres",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ミニリュウ",
+    "en": "dratini",
+    "apiName": "dratini",
+    "types": [
+      "dragon"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ハクリュー",
+    "en": "dragonair",
+    "apiName": "dragonair",
+    "types": [
+      "dragon"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "カイリュー",
+    "en": "dragonite",
+    "apiName": "dragonite",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ミュウツー",
+    "en": "mewtwo",
+    "apiName": "mewtwo",
+    "types": [
+      "psychic"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "ミュウ",
+    "en": "mew",
+    "apiName": "mew",
+    "types": [
+      "psychic"
+    ],
+    "generation": 1
+  },
+  {
+    "ja": "チコリータ",
+    "en": "chikorita",
+    "apiName": "chikorita",
+    "types": [
+      "grass"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ベイリーフ",
+    "en": "bayleef",
+    "apiName": "bayleef",
+    "types": [
+      "grass"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "メガニウム",
+    "en": "meganium",
+    "apiName": "meganium",
+    "types": [
+      "grass"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ヒノアラシ",
+    "en": "cyndaquil",
+    "apiName": "cyndaquil",
+    "types": [
+      "fire"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "マグマラシ",
+    "en": "quilava",
+    "apiName": "quilava",
+    "types": [
+      "fire"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "バクフーン",
+    "en": "typhlosion",
+    "apiName": "typhlosion",
+    "types": [
+      "fire"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ワニノコ",
+    "en": "totodile",
+    "apiName": "totodile",
+    "types": [
+      "water"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "アリゲイツ",
+    "en": "croconaw",
+    "apiName": "croconaw",
+    "types": [
+      "water"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "オーダイル",
+    "en": "feraligatr",
+    "apiName": "feraligatr",
+    "types": [
+      "water"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "オタチ",
+    "en": "sentret",
+    "apiName": "sentret",
+    "types": [
+      "normal"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "オオタチ",
+    "en": "furret",
+    "apiName": "furret",
+    "types": [
+      "normal"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ホーホー",
+    "en": "hoothoot",
+    "apiName": "hoothoot",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ヨルノズク",
+    "en": "noctowl",
+    "apiName": "noctowl",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "レディバ",
+    "en": "ledyba",
+    "apiName": "ledyba",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "レディアン",
+    "en": "ledian",
+    "apiName": "ledian",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "イトマル",
+    "en": "spinarak",
+    "apiName": "spinarak",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "アリアドス",
+    "en": "ariados",
+    "apiName": "ariados",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "クロバット",
+    "en": "crobat",
+    "apiName": "crobat",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "チョンチー",
+    "en": "chinchou",
+    "apiName": "chinchou",
+    "types": [
+      "water",
+      "electric"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ランターン",
+    "en": "lanturn",
+    "apiName": "lanturn",
+    "types": [
+      "water",
+      "electric"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ピチュー",
+    "en": "pichu",
+    "apiName": "pichu",
+    "types": [
+      "electric"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ピィ",
+    "en": "cleffa",
+    "apiName": "cleffa",
+    "types": [
+      "fairy"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ププリン",
+    "en": "igglybuff",
+    "apiName": "igglybuff",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "トゲピー",
+    "en": "togepi",
+    "apiName": "togepi",
+    "types": [
+      "fairy"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "トゲチック",
+    "en": "togetic",
+    "apiName": "togetic",
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ネイティ",
+    "en": "natu",
+    "apiName": "natu",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ネイティオ",
+    "en": "xatu",
+    "apiName": "xatu",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "メリープ",
+    "en": "mareep",
+    "apiName": "mareep",
+    "types": [
+      "electric"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "モココ",
+    "en": "flaaffy",
+    "apiName": "flaaffy",
+    "types": [
+      "electric"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "デンリュウ",
+    "en": "ampharos",
+    "apiName": "ampharos",
+    "types": [
+      "electric"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "キレイハナ",
+    "en": "bellossom",
+    "apiName": "bellossom",
+    "types": [
+      "grass"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "マリル",
+    "en": "marill",
+    "apiName": "marill",
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "マリルリ",
+    "en": "azumarill",
+    "apiName": "azumarill",
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ウソッキー",
+    "en": "sudowoodo",
+    "apiName": "sudowoodo",
+    "types": [
+      "rock"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ニョロトノ",
+    "en": "politoed",
+    "apiName": "politoed",
+    "types": [
+      "water"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ハネッコ",
+    "en": "hoppip",
+    "apiName": "hoppip",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ポポッコ",
+    "en": "skiploom",
+    "apiName": "skiploom",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ワタッコ",
+    "en": "jumpluff",
+    "apiName": "jumpluff",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "エイパム",
+    "en": "aipom",
+    "apiName": "aipom",
+    "types": [
+      "normal"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ヒマナッツ",
+    "en": "sunkern",
+    "apiName": "sunkern",
+    "types": [
+      "grass"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "キマワリ",
+    "en": "sunflora",
+    "apiName": "sunflora",
+    "types": [
+      "grass"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ヤンヤンマ",
+    "en": "yanma",
+    "apiName": "yanma",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ウパー",
+    "en": "wooper",
+    "apiName": "wooper",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ヌオー",
+    "en": "quagsire",
+    "apiName": "quagsire",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "エーフィ",
+    "en": "espeon",
+    "apiName": "espeon",
+    "types": [
+      "psychic"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ブラッキー",
+    "en": "umbreon",
+    "apiName": "umbreon",
+    "types": [
+      "dark"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ヤミカラス",
+    "en": "murkrow",
+    "apiName": "murkrow",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ヤドキング",
+    "en": "slowking",
+    "apiName": "slowking",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ムウマ",
+    "en": "misdreavus",
+    "apiName": "misdreavus",
+    "types": [
+      "ghost"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "アンノーン",
+    "en": "unown",
+    "apiName": "unown",
+    "types": [
+      "psychic"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ソーナンス",
+    "en": "wobbuffet",
+    "apiName": "wobbuffet",
+    "types": [
+      "psychic"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "キリンリキ",
+    "en": "girafarig",
+    "apiName": "girafarig",
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "クヌギダマ",
+    "en": "pineco",
+    "apiName": "pineco",
+    "types": [
+      "bug"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "フォレトス",
+    "en": "forretress",
+    "apiName": "forretress",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ノコッチ",
+    "en": "dunsparce",
+    "apiName": "dunsparce",
+    "types": [
+      "normal"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "グライガー",
+    "en": "gligar",
+    "apiName": "gligar",
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ハガネール",
+    "en": "steelix",
+    "apiName": "steelix",
+    "types": [
+      "steel",
+      "ground"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ブルー",
+    "en": "snubbull",
+    "apiName": "snubbull",
+    "types": [
+      "fairy"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "グランブル",
+    "en": "granbull",
+    "apiName": "granbull",
+    "types": [
+      "fairy"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ハリーセン",
+    "en": "qwilfish",
+    "apiName": "qwilfish",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ハッサム",
+    "en": "scizor",
+    "apiName": "scizor",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ツボツボ",
+    "en": "shuckle",
+    "apiName": "shuckle",
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ヘラクロス",
+    "en": "heracross",
+    "apiName": "heracross",
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ニューラ",
+    "en": "sneasel",
+    "apiName": "sneasel",
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ヒメグマ",
+    "en": "teddiursa",
+    "apiName": "teddiursa",
+    "types": [
+      "normal"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "リングマ",
+    "en": "ursaring",
+    "apiName": "ursaring",
+    "types": [
+      "normal"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "マグマッグ",
+    "en": "slugma",
+    "apiName": "slugma",
+    "types": [
+      "fire"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "マグカルゴ",
+    "en": "magcargo",
+    "apiName": "magcargo",
+    "types": [
+      "fire",
+      "rock"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ウリムー",
+    "en": "swinub",
+    "apiName": "swinub",
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "イノムー",
+    "en": "piloswine",
+    "apiName": "piloswine",
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "サニーゴ",
+    "en": "corsola",
+    "apiName": "corsola",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "テッポウオ",
+    "en": "remoraid",
+    "apiName": "remoraid",
+    "types": [
+      "water"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "オクタン",
+    "en": "octillery",
+    "apiName": "octillery",
+    "types": [
+      "water"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "デリバード",
+    "en": "delibird",
+    "apiName": "delibird",
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "マンタイン",
+    "en": "mantine",
+    "apiName": "mantine",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "エアームド",
+    "en": "skarmory",
+    "apiName": "skarmory",
+    "types": [
+      "steel",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "デルビル",
+    "en": "houndour",
+    "apiName": "houndour",
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ヘルガー",
+    "en": "houndoom",
+    "apiName": "houndoom",
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "キングドラ",
+    "en": "kingdra",
+    "apiName": "kingdra",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ゴマゾウ",
+    "en": "phanpy",
+    "apiName": "phanpy",
+    "types": [
+      "ground"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ドンファン",
+    "en": "donphan",
+    "apiName": "donphan",
+    "types": [
+      "ground"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ポリゴン２",
+    "en": "porygon2",
+    "apiName": "porygon2",
+    "types": [
+      "normal"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "オドシシ",
+    "en": "stantler",
+    "apiName": "stantler",
+    "types": [
+      "normal"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ドーブル",
+    "en": "smeargle",
+    "apiName": "smeargle",
+    "types": [
+      "normal"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "バルキー",
+    "en": "tyrogue",
+    "apiName": "tyrogue",
+    "types": [
+      "fighting"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "カポエラー",
+    "en": "hitmontop",
+    "apiName": "hitmontop",
+    "types": [
+      "fighting"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ムチュール",
+    "en": "smoochum",
+    "apiName": "smoochum",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "エレキッド",
+    "en": "elekid",
+    "apiName": "elekid",
+    "types": [
+      "electric"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ブビィ",
+    "en": "magby",
+    "apiName": "magby",
+    "types": [
+      "fire"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ミルタンク",
+    "en": "miltank",
+    "apiName": "miltank",
+    "types": [
+      "normal"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ハピナス",
+    "en": "blissey",
+    "apiName": "blissey",
+    "types": [
+      "normal"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ライコウ",
+    "en": "raikou",
+    "apiName": "raikou",
+    "types": [
+      "electric"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "エンテイ",
+    "en": "entei",
+    "apiName": "entei",
+    "types": [
+      "fire"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "スイクン",
+    "en": "suicune",
+    "apiName": "suicune",
+    "types": [
+      "water"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ヨーギラス",
+    "en": "larvitar",
+    "apiName": "larvitar",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "サナギラス",
+    "en": "pupitar",
+    "apiName": "pupitar",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "バンギラス",
+    "en": "tyranitar",
+    "apiName": "tyranitar",
+    "types": [
+      "rock",
+      "dark"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ルギア",
+    "en": "lugia",
+    "apiName": "lugia",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "ホウオウ",
+    "en": "ho-oh",
+    "apiName": "ho-oh",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "セレビィ",
+    "en": "celebi",
+    "apiName": "celebi",
+    "types": [
+      "psychic",
+      "grass"
+    ],
+    "generation": 2
+  },
+  {
+    "ja": "キモリ",
+    "en": "treecko",
+    "apiName": "treecko",
+    "types": [
+      "grass"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ジュプトル",
+    "en": "grovyle",
+    "apiName": "grovyle",
+    "types": [
+      "grass"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ジュカイン",
+    "en": "sceptile",
+    "apiName": "sceptile",
+    "types": [
+      "grass"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "アチャモ",
+    "en": "torchic",
+    "apiName": "torchic",
+    "types": [
+      "fire"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ワカシャモ",
+    "en": "combusken",
+    "apiName": "combusken",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "バシャーモ",
+    "en": "blaziken",
+    "apiName": "blaziken",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ミズゴロウ",
+    "en": "mudkip",
+    "apiName": "mudkip",
+    "types": [
+      "water"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ヌマクロー",
+    "en": "marshtomp",
+    "apiName": "marshtomp",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ラグラージ",
+    "en": "swampert",
+    "apiName": "swampert",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ポチエナ",
+    "en": "poochyena",
+    "apiName": "poochyena",
+    "types": [
+      "dark"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "グラエナ",
+    "en": "mightyena",
+    "apiName": "mightyena",
+    "types": [
+      "dark"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ジグザグマ",
+    "en": "zigzagoon",
+    "apiName": "zigzagoon",
+    "types": [
+      "normal"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "マッスグマ",
+    "en": "linoone",
+    "apiName": "linoone",
+    "types": [
+      "normal"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ケムッソ",
+    "en": "wurmple",
+    "apiName": "wurmple",
+    "types": [
+      "bug"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "カラサリス",
+    "en": "silcoon",
+    "apiName": "silcoon",
+    "types": [
+      "bug"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "アゲハント",
+    "en": "beautifly",
+    "apiName": "beautifly",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "マユルド",
+    "en": "cascoon",
+    "apiName": "cascoon",
+    "types": [
+      "bug"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ドクケイル",
+    "en": "dustox",
+    "apiName": "dustox",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ハスボー",
+    "en": "lotad",
+    "apiName": "lotad",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ハスブレロ",
+    "en": "lombre",
+    "apiName": "lombre",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ルンパッパ",
+    "en": "ludicolo",
+    "apiName": "ludicolo",
+    "types": [
+      "water",
+      "grass"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "タネボー",
+    "en": "seedot",
+    "apiName": "seedot",
+    "types": [
+      "grass"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "コノハナ",
+    "en": "nuzleaf",
+    "apiName": "nuzleaf",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ダーテング",
+    "en": "shiftry",
+    "apiName": "shiftry",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "スバメ",
+    "en": "taillow",
+    "apiName": "taillow",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "オオスバメ",
+    "en": "swellow",
+    "apiName": "swellow",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "キャモメ",
+    "en": "wingull",
+    "apiName": "wingull",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ペリッパー",
+    "en": "pelipper",
+    "apiName": "pelipper",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ラルトス",
+    "en": "ralts",
+    "apiName": "ralts",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "キルリア",
+    "en": "kirlia",
+    "apiName": "kirlia",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "サーナイト",
+    "en": "gardevoir",
+    "apiName": "gardevoir",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "アメタマ",
+    "en": "surskit",
+    "apiName": "surskit",
+    "types": [
+      "bug",
+      "water"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "アメモース",
+    "en": "masquerain",
+    "apiName": "masquerain",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "キノココ",
+    "en": "shroomish",
+    "apiName": "shroomish",
+    "types": [
+      "grass"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "キノガッサ",
+    "en": "breloom",
+    "apiName": "breloom",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ナマケロ",
+    "en": "slakoth",
+    "apiName": "slakoth",
+    "types": [
+      "normal"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ヤルキモノ",
+    "en": "vigoroth",
+    "apiName": "vigoroth",
+    "types": [
+      "normal"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ケッキング",
+    "en": "slaking",
+    "apiName": "slaking",
+    "types": [
+      "normal"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ツチニン",
+    "en": "nincada",
+    "apiName": "nincada",
+    "types": [
+      "bug",
+      "ground"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "テッカニン",
+    "en": "ninjask",
+    "apiName": "ninjask",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ヌケニン",
+    "en": "shedinja",
+    "apiName": "shedinja",
+    "types": [
+      "bug",
+      "ghost"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ゴニョニョ",
+    "en": "whismur",
+    "apiName": "whismur",
+    "types": [
+      "normal"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ドゴーム",
+    "en": "loudred",
+    "apiName": "loudred",
+    "types": [
+      "normal"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "バクオング",
+    "en": "exploud",
+    "apiName": "exploud",
+    "types": [
+      "normal"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "マクノシタ",
+    "en": "makuhita",
+    "apiName": "makuhita",
+    "types": [
+      "fighting"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ハリテヤマ",
+    "en": "hariyama",
+    "apiName": "hariyama",
+    "types": [
+      "fighting"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ルリリ",
+    "en": "azurill",
+    "apiName": "azurill",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ノズパス",
+    "en": "nosepass",
+    "apiName": "nosepass",
+    "types": [
+      "rock"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "エネコ",
+    "en": "skitty",
+    "apiName": "skitty",
+    "types": [
+      "normal"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "エネコロロ",
+    "en": "delcatty",
+    "apiName": "delcatty",
+    "types": [
+      "normal"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ヤミラミ",
+    "en": "sableye",
+    "apiName": "sableye",
+    "types": [
+      "dark",
+      "ghost"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "クチート",
+    "en": "mawile",
+    "apiName": "mawile",
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ココドラ",
+    "en": "aron",
+    "apiName": "aron",
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "コドラ",
+    "en": "lairon",
+    "apiName": "lairon",
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ボスゴドラ",
+    "en": "aggron",
+    "apiName": "aggron",
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "アサナン",
+    "en": "meditite",
+    "apiName": "meditite",
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "チャーレム",
+    "en": "medicham",
+    "apiName": "medicham",
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ラクライ",
+    "en": "electrike",
+    "apiName": "electrike",
+    "types": [
+      "electric"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ライボルト",
+    "en": "manectric",
+    "apiName": "manectric",
+    "types": [
+      "electric"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "プラスル",
+    "en": "plusle",
+    "apiName": "plusle",
+    "types": [
+      "electric"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "マイナン",
+    "en": "minun",
+    "apiName": "minun",
+    "types": [
+      "electric"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "バルビート",
+    "en": "volbeat",
+    "apiName": "volbeat",
+    "types": [
+      "bug"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "イルミーゼ",
+    "en": "illumise",
+    "apiName": "illumise",
+    "types": [
+      "bug"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ロゼリア",
+    "en": "roselia",
+    "apiName": "roselia",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ゴクリン",
+    "en": "gulpin",
+    "apiName": "gulpin",
+    "types": [
+      "poison"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "マルノーム",
+    "en": "swalot",
+    "apiName": "swalot",
+    "types": [
+      "poison"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "キバニア",
+    "en": "carvanha",
+    "apiName": "carvanha",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "サメハダー",
+    "en": "sharpedo",
+    "apiName": "sharpedo",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ホエルコ",
+    "en": "wailmer",
+    "apiName": "wailmer",
+    "types": [
+      "water"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ホエルオー",
+    "en": "wailord",
+    "apiName": "wailord",
+    "types": [
+      "water"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ドンメル",
+    "en": "numel",
+    "apiName": "numel",
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "バクーダ",
+    "en": "camerupt",
+    "apiName": "camerupt",
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "コータス",
+    "en": "torkoal",
+    "apiName": "torkoal",
+    "types": [
+      "fire"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "バネブー",
+    "en": "spoink",
+    "apiName": "spoink",
+    "types": [
+      "psychic"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ブーピッグ",
+    "en": "grumpig",
+    "apiName": "grumpig",
+    "types": [
+      "psychic"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "パッチール",
+    "en": "spinda",
+    "apiName": "spinda",
+    "types": [
+      "normal"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ナックラー",
+    "en": "trapinch",
+    "apiName": "trapinch",
+    "types": [
+      "ground"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ビブラーバ",
+    "en": "vibrava",
+    "apiName": "vibrava",
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "フライゴン",
+    "en": "flygon",
+    "apiName": "flygon",
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "サボネア",
+    "en": "cacnea",
+    "apiName": "cacnea",
+    "types": [
+      "grass"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ノクタス",
+    "en": "cacturne",
+    "apiName": "cacturne",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "チルット",
+    "en": "swablu",
+    "apiName": "swablu",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "チルタリス",
+    "en": "altaria",
+    "apiName": "altaria",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ザングース",
+    "en": "zangoose",
+    "apiName": "zangoose",
+    "types": [
+      "normal"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ハブネーク",
+    "en": "seviper",
+    "apiName": "seviper",
+    "types": [
+      "poison"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ルナトーン",
+    "en": "lunatone",
+    "apiName": "lunatone",
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ソルロック",
+    "en": "solrock",
+    "apiName": "solrock",
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ドジョッチ",
+    "en": "barboach",
+    "apiName": "barboach",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ナマズン",
+    "en": "whiscash",
+    "apiName": "whiscash",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ヘイガニ",
+    "en": "corphish",
+    "apiName": "corphish",
+    "types": [
+      "water"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "シザリガー",
+    "en": "crawdaunt",
+    "apiName": "crawdaunt",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ヤジロン",
+    "en": "baltoy",
+    "apiName": "baltoy",
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ネンドール",
+    "en": "claydol",
+    "apiName": "claydol",
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "リリーラ",
+    "en": "lileep",
+    "apiName": "lileep",
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ユレイドル",
+    "en": "cradily",
+    "apiName": "cradily",
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "アノプス",
+    "en": "anorith",
+    "apiName": "anorith",
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "アーマルド",
+    "en": "armaldo",
+    "apiName": "armaldo",
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ヒンバス",
+    "en": "feebas",
+    "apiName": "feebas",
+    "types": [
+      "water"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ミロカロス",
+    "en": "milotic",
+    "apiName": "milotic",
+    "types": [
+      "water"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ポワルン",
+    "en": "castform",
+    "apiName": "castform",
+    "types": [
+      "normal"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "カクレオン",
+    "en": "kecleon",
+    "apiName": "kecleon",
+    "types": [
+      "normal"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "カゲボウズ",
+    "en": "shuppet",
+    "apiName": "shuppet",
+    "types": [
+      "ghost"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ジュペッタ",
+    "en": "banette",
+    "apiName": "banette",
+    "types": [
+      "ghost"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ヨマワル",
+    "en": "duskull",
+    "apiName": "duskull",
+    "types": [
+      "ghost"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "サマヨール",
+    "en": "dusclops",
+    "apiName": "dusclops",
+    "types": [
+      "ghost"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "トロピウス",
+    "en": "tropius",
+    "apiName": "tropius",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "チリーン",
+    "en": "chimecho",
+    "apiName": "chimecho",
+    "types": [
+      "psychic"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "アブソル",
+    "en": "absol",
+    "apiName": "absol",
+    "types": [
+      "dark"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ソーナノ",
+    "en": "wynaut",
+    "apiName": "wynaut",
+    "types": [
+      "psychic"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ユキワラシ",
+    "en": "snorunt",
+    "apiName": "snorunt",
+    "types": [
+      "ice"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "オニゴーリ",
+    "en": "glalie",
+    "apiName": "glalie",
+    "types": [
+      "ice"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "タマザラシ",
+    "en": "spheal",
+    "apiName": "spheal",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "トドグラー",
+    "en": "sealeo",
+    "apiName": "sealeo",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "トドゼルガ",
+    "en": "walrein",
+    "apiName": "walrein",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "パールル",
+    "en": "clamperl",
+    "apiName": "clamperl",
+    "types": [
+      "water"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ハンテール",
+    "en": "huntail",
+    "apiName": "huntail",
+    "types": [
+      "water"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "サクラビス",
+    "en": "gorebyss",
+    "apiName": "gorebyss",
+    "types": [
+      "water"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ジーランス",
+    "en": "relicanth",
+    "apiName": "relicanth",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ラブカス",
+    "en": "luvdisc",
+    "apiName": "luvdisc",
+    "types": [
+      "water"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "タツベイ",
+    "en": "bagon",
+    "apiName": "bagon",
+    "types": [
+      "dragon"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "コモルー",
+    "en": "shelgon",
+    "apiName": "shelgon",
+    "types": [
+      "dragon"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ボーマンダ",
+    "en": "salamence",
+    "apiName": "salamence",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ダンバル",
+    "en": "beldum",
+    "apiName": "beldum",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "メタング",
+    "en": "metang",
+    "apiName": "metang",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "メタグロス",
+    "en": "metagross",
+    "apiName": "metagross",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "レジロック",
+    "en": "regirock",
+    "apiName": "regirock",
+    "types": [
+      "rock"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "レジアイス",
+    "en": "regice",
+    "apiName": "regice",
+    "types": [
+      "ice"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "レジスチル",
+    "en": "registeel",
+    "apiName": "registeel",
+    "types": [
+      "steel"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ラティアス",
+    "en": "latias",
+    "apiName": "latias",
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ラティオス",
+    "en": "latios",
+    "apiName": "latios",
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "カイオーガ",
+    "en": "kyogre",
+    "apiName": "kyogre",
+    "types": [
+      "water"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "グラードン",
+    "en": "groudon",
+    "apiName": "groudon",
+    "types": [
+      "ground"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "レックウザ",
+    "en": "rayquaza",
+    "apiName": "rayquaza",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ジラーチ",
+    "en": "jirachi",
+    "apiName": "jirachi",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "デオキシス",
+    "en": "deoxys",
+    "apiName": "deoxys-normal",
+    "types": [
+      "psychic"
+    ],
+    "generation": 3
+  },
+  {
+    "ja": "ナエトル",
+    "en": "turtwig",
+    "apiName": "turtwig",
+    "types": [
+      "grass"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ハヤシガメ",
+    "en": "grotle",
+    "apiName": "grotle",
+    "types": [
+      "grass"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ドダイトス",
+    "en": "torterra",
+    "apiName": "torterra",
+    "types": [
+      "grass",
+      "ground"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ヒコザル",
+    "en": "chimchar",
+    "apiName": "chimchar",
+    "types": [
+      "fire"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "モウカザル",
+    "en": "monferno",
+    "apiName": "monferno",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ゴウカザル",
+    "en": "infernape",
+    "apiName": "infernape",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ポッチャマ",
+    "en": "piplup",
+    "apiName": "piplup",
+    "types": [
+      "water"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ポッタイシ",
+    "en": "prinplup",
+    "apiName": "prinplup",
+    "types": [
+      "water"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "エンペルト",
+    "en": "empoleon",
+    "apiName": "empoleon",
+    "types": [
+      "water",
+      "steel"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ムックル",
+    "en": "starly",
+    "apiName": "starly",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ムクバード",
+    "en": "staravia",
+    "apiName": "staravia",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ムクホーク",
+    "en": "staraptor",
+    "apiName": "staraptor",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ビッパ",
+    "en": "bidoof",
+    "apiName": "bidoof",
+    "types": [
+      "normal"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ビーダル",
+    "en": "bibarel",
+    "apiName": "bibarel",
+    "types": [
+      "normal",
+      "water"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "コロボーシ",
+    "en": "kricketot",
+    "apiName": "kricketot",
+    "types": [
+      "bug"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "コロトック",
+    "en": "kricketune",
+    "apiName": "kricketune",
+    "types": [
+      "bug"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "コリンク",
+    "en": "shinx",
+    "apiName": "shinx",
+    "types": [
+      "electric"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ルクシオ",
+    "en": "luxio",
+    "apiName": "luxio",
+    "types": [
+      "electric"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "レントラー",
+    "en": "luxray",
+    "apiName": "luxray",
+    "types": [
+      "electric"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "スボミー",
+    "en": "budew",
+    "apiName": "budew",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ロズレイド",
+    "en": "roserade",
+    "apiName": "roserade",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ズガイドス",
+    "en": "cranidos",
+    "apiName": "cranidos",
+    "types": [
+      "rock"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ラムパルド",
+    "en": "rampardos",
+    "apiName": "rampardos",
+    "types": [
+      "rock"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "タテトプス",
+    "en": "shieldon",
+    "apiName": "shieldon",
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "トリデプス",
+    "en": "bastiodon",
+    "apiName": "bastiodon",
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ミノムッチ",
+    "en": "burmy",
+    "apiName": "burmy",
+    "types": [
+      "bug"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ミノマダム",
+    "en": "wormadam",
+    "apiName": "wormadam-plant",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ガーメイル",
+    "en": "mothim",
+    "apiName": "mothim",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ミツハニー",
+    "en": "combee",
+    "apiName": "combee",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ビークイン",
+    "en": "vespiquen",
+    "apiName": "vespiquen",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "パチリス",
+    "en": "pachirisu",
+    "apiName": "pachirisu",
+    "types": [
+      "electric"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ブイゼル",
+    "en": "buizel",
+    "apiName": "buizel",
+    "types": [
+      "water"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "フローゼル",
+    "en": "floatzel",
+    "apiName": "floatzel",
+    "types": [
+      "water"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "チェリンボ",
+    "en": "cherubi",
+    "apiName": "cherubi",
+    "types": [
+      "grass"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "チェリム",
+    "en": "cherrim",
+    "apiName": "cherrim",
+    "types": [
+      "grass"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "カラナクシ",
+    "en": "shellos",
+    "apiName": "shellos",
+    "types": [
+      "water"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "トリトドン",
+    "en": "gastrodon",
+    "apiName": "gastrodon",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "エテボース",
+    "en": "ambipom",
+    "apiName": "ambipom",
+    "types": [
+      "normal"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "フワンテ",
+    "en": "drifloon",
+    "apiName": "drifloon",
+    "types": [
+      "ghost",
+      "flying"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "フワライド",
+    "en": "drifblim",
+    "apiName": "drifblim",
+    "types": [
+      "ghost",
+      "flying"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ミミロル",
+    "en": "buneary",
+    "apiName": "buneary",
+    "types": [
+      "normal"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ミミロップ",
+    "en": "lopunny",
+    "apiName": "lopunny",
+    "types": [
+      "normal"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ムウマージ",
+    "en": "mismagius",
+    "apiName": "mismagius",
+    "types": [
+      "ghost"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ドンカラス",
+    "en": "honchkrow",
+    "apiName": "honchkrow",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ニャルマー",
+    "en": "glameow",
+    "apiName": "glameow",
+    "types": [
+      "normal"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ブニャット",
+    "en": "purugly",
+    "apiName": "purugly",
+    "types": [
+      "normal"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "リーシャン",
+    "en": "chingling",
+    "apiName": "chingling",
+    "types": [
+      "psychic"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "スカンプー",
+    "en": "stunky",
+    "apiName": "stunky",
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "スカタンク",
+    "en": "skuntank",
+    "apiName": "skuntank",
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ドーミラー",
+    "en": "bronzor",
+    "apiName": "bronzor",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ドータクン",
+    "en": "bronzong",
+    "apiName": "bronzong",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ウソハチ",
+    "en": "bonsly",
+    "apiName": "bonsly",
+    "types": [
+      "rock"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "マネネ",
+    "en": "mime-jr",
+    "apiName": "mime-jr",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ピンプク",
+    "en": "happiny",
+    "apiName": "happiny",
+    "types": [
+      "normal"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ペラップ",
+    "en": "chatot",
+    "apiName": "chatot",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ミカルゲ",
+    "en": "spiritomb",
+    "apiName": "spiritomb",
+    "types": [
+      "ghost",
+      "dark"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "フカマル",
+    "en": "gible",
+    "apiName": "gible",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ガバイト",
+    "en": "gabite",
+    "apiName": "gabite",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ガブリアス",
+    "en": "garchomp",
+    "apiName": "garchomp",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ゴンベ",
+    "en": "munchlax",
+    "apiName": "munchlax",
+    "types": [
+      "normal"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "リオル",
+    "en": "riolu",
+    "apiName": "riolu",
+    "types": [
+      "fighting"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ルカリオ",
+    "en": "lucario",
+    "apiName": "lucario",
+    "types": [
+      "fighting",
+      "steel"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ヒポポタス",
+    "en": "hippopotas",
+    "apiName": "hippopotas",
+    "types": [
+      "ground"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "カバルドン",
+    "en": "hippowdon",
+    "apiName": "hippowdon",
+    "types": [
+      "ground"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "スコルピ",
+    "en": "skorupi",
+    "apiName": "skorupi",
+    "types": [
+      "poison",
+      "bug"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ドラピオン",
+    "en": "drapion",
+    "apiName": "drapion",
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "グレッグル",
+    "en": "croagunk",
+    "apiName": "croagunk",
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ドクロッグ",
+    "en": "toxicroak",
+    "apiName": "toxicroak",
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "マスキッパ",
+    "en": "carnivine",
+    "apiName": "carnivine",
+    "types": [
+      "grass"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ケイコウオ",
+    "en": "finneon",
+    "apiName": "finneon",
+    "types": [
+      "water"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ネオラント",
+    "en": "lumineon",
+    "apiName": "lumineon",
+    "types": [
+      "water"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "タマンタ",
+    "en": "mantyke",
+    "apiName": "mantyke",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ユキカブリ",
+    "en": "snover",
+    "apiName": "snover",
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ユキノオー",
+    "en": "abomasnow",
+    "apiName": "abomasnow",
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "マニューラ",
+    "en": "weavile",
+    "apiName": "weavile",
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ジバコイル",
+    "en": "magnezone",
+    "apiName": "magnezone",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ベロベルト",
+    "en": "lickilicky",
+    "apiName": "lickilicky",
+    "types": [
+      "normal"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ドサイドン",
+    "en": "rhyperior",
+    "apiName": "rhyperior",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "モジャンボ",
+    "en": "tangrowth",
+    "apiName": "tangrowth",
+    "types": [
+      "grass"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "エレキブル",
+    "en": "electivire",
+    "apiName": "electivire",
+    "types": [
+      "electric"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ブーバーン",
+    "en": "magmortar",
+    "apiName": "magmortar",
+    "types": [
+      "fire"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "トゲキッス",
+    "en": "togekiss",
+    "apiName": "togekiss",
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "メガヤンマ",
+    "en": "yanmega",
+    "apiName": "yanmega",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "リーフィア",
+    "en": "leafeon",
+    "apiName": "leafeon",
+    "types": [
+      "grass"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "グレイシア",
+    "en": "glaceon",
+    "apiName": "glaceon",
+    "types": [
+      "ice"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "グライオン",
+    "en": "gliscor",
+    "apiName": "gliscor",
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "マンムー",
+    "en": "mamoswine",
+    "apiName": "mamoswine",
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ポリゴンＺ",
+    "en": "porygon-z",
+    "apiName": "porygon-z",
+    "types": [
+      "normal"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "エルレイド",
+    "en": "gallade",
+    "apiName": "gallade",
+    "types": [
+      "psychic",
+      "fighting"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ダイノーズ",
+    "en": "probopass",
+    "apiName": "probopass",
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ヨノワール",
+    "en": "dusknoir",
+    "apiName": "dusknoir",
+    "types": [
+      "ghost"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ユキメノコ",
+    "en": "froslass",
+    "apiName": "froslass",
+    "types": [
+      "ice",
+      "ghost"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ロトム",
+    "en": "rotom",
+    "apiName": "rotom",
+    "types": [
+      "electric",
+      "ghost"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ユクシー",
+    "en": "uxie",
+    "apiName": "uxie",
+    "types": [
+      "psychic"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "エムリット",
+    "en": "mesprit",
+    "apiName": "mesprit",
+    "types": [
+      "psychic"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "アグノム",
+    "en": "azelf",
+    "apiName": "azelf",
+    "types": [
+      "psychic"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ディアルガ",
+    "en": "dialga",
+    "apiName": "dialga",
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "パルキア",
+    "en": "palkia",
+    "apiName": "palkia",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ヒードラン",
+    "en": "heatran",
+    "apiName": "heatran",
+    "types": [
+      "fire",
+      "steel"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "レジギガス",
+    "en": "regigigas",
+    "apiName": "regigigas",
+    "types": [
+      "normal"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ギラティナ",
+    "en": "giratina",
+    "apiName": "giratina-altered",
+    "types": [
+      "ghost",
+      "dragon"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "クレセリア",
+    "en": "cresselia",
+    "apiName": "cresselia",
+    "types": [
+      "psychic"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "フィオネ",
+    "en": "phione",
+    "apiName": "phione",
+    "types": [
+      "water"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "マナフィ",
+    "en": "manaphy",
+    "apiName": "manaphy",
+    "types": [
+      "water"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ダークライ",
+    "en": "darkrai",
+    "apiName": "darkrai",
+    "types": [
+      "dark"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "シェイミ",
+    "en": "shaymin",
+    "apiName": "shaymin-land",
+    "types": [
+      "grass"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "アルセウス",
+    "en": "arceus",
+    "apiName": "arceus",
+    "types": [
+      "normal"
+    ],
+    "generation": 4
+  },
+  {
+    "ja": "ビクティニ",
+    "en": "victini",
+    "apiName": "victini",
+    "types": [
+      "psychic",
+      "fire"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ツタージャ",
+    "en": "snivy",
+    "apiName": "snivy",
+    "types": [
+      "grass"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ジャノビー",
+    "en": "servine",
+    "apiName": "servine",
+    "types": [
+      "grass"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ジャローダ",
+    "en": "serperior",
+    "apiName": "serperior",
+    "types": [
+      "grass"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ポカブ",
+    "en": "tepig",
+    "apiName": "tepig",
+    "types": [
+      "fire"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "チャオブー",
+    "en": "pignite",
+    "apiName": "pignite",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "エンブオー",
+    "en": "emboar",
+    "apiName": "emboar",
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ミジュマル",
+    "en": "oshawott",
+    "apiName": "oshawott",
+    "types": [
+      "water"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "フタチマル",
+    "en": "dewott",
+    "apiName": "dewott",
+    "types": [
+      "water"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ダイケンキ",
+    "en": "samurott",
+    "apiName": "samurott",
+    "types": [
+      "water"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ミネズミ",
+    "en": "patrat",
+    "apiName": "patrat",
+    "types": [
+      "normal"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ミルホッグ",
+    "en": "watchog",
+    "apiName": "watchog",
+    "types": [
+      "normal"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ヨーテリー",
+    "en": "lillipup",
+    "apiName": "lillipup",
+    "types": [
+      "normal"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ハーデリア",
+    "en": "herdier",
+    "apiName": "herdier",
+    "types": [
+      "normal"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ムーランド",
+    "en": "stoutland",
+    "apiName": "stoutland",
+    "types": [
+      "normal"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "チョロネコ",
+    "en": "purrloin",
+    "apiName": "purrloin",
+    "types": [
+      "dark"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "レパルダス",
+    "en": "liepard",
+    "apiName": "liepard",
+    "types": [
+      "dark"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ヤナップ",
+    "en": "pansage",
+    "apiName": "pansage",
+    "types": [
+      "grass"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ヤナッキー",
+    "en": "simisage",
+    "apiName": "simisage",
+    "types": [
+      "grass"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "バオップ",
+    "en": "pansear",
+    "apiName": "pansear",
+    "types": [
+      "fire"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "バオッキー",
+    "en": "simisear",
+    "apiName": "simisear",
+    "types": [
+      "fire"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ヒヤップ",
+    "en": "panpour",
+    "apiName": "panpour",
+    "types": [
+      "water"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ヒヤッキー",
+    "en": "simipour",
+    "apiName": "simipour",
+    "types": [
+      "water"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ムンナ",
+    "en": "munna",
+    "apiName": "munna",
+    "types": [
+      "psychic"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ムシャーナ",
+    "en": "musharna",
+    "apiName": "musharna",
+    "types": [
+      "psychic"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "マメパト",
+    "en": "pidove",
+    "apiName": "pidove",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ハトーボー",
+    "en": "tranquill",
+    "apiName": "tranquill",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ケンホロウ",
+    "en": "unfezant",
+    "apiName": "unfezant",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "シママ",
+    "en": "blitzle",
+    "apiName": "blitzle",
+    "types": [
+      "electric"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ゼブライカ",
+    "en": "zebstrika",
+    "apiName": "zebstrika",
+    "types": [
+      "electric"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ダンゴロ",
+    "en": "roggenrola",
+    "apiName": "roggenrola",
+    "types": [
+      "rock"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ガントル",
+    "en": "boldore",
+    "apiName": "boldore",
+    "types": [
+      "rock"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ギガイアス",
+    "en": "gigalith",
+    "apiName": "gigalith",
+    "types": [
+      "rock"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "コロモリ",
+    "en": "woobat",
+    "apiName": "woobat",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ココロモリ",
+    "en": "swoobat",
+    "apiName": "swoobat",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "モグリュー",
+    "en": "drilbur",
+    "apiName": "drilbur",
+    "types": [
+      "ground"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ドリュウズ",
+    "en": "excadrill",
+    "apiName": "excadrill",
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "タブンネ",
+    "en": "audino",
+    "apiName": "audino",
+    "types": [
+      "normal"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ドッコラー",
+    "en": "timburr",
+    "apiName": "timburr",
+    "types": [
+      "fighting"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ドテッコツ",
+    "en": "gurdurr",
+    "apiName": "gurdurr",
+    "types": [
+      "fighting"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ローブシン",
+    "en": "conkeldurr",
+    "apiName": "conkeldurr",
+    "types": [
+      "fighting"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "オタマロ",
+    "en": "tympole",
+    "apiName": "tympole",
+    "types": [
+      "water"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ガマガル",
+    "en": "palpitoad",
+    "apiName": "palpitoad",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ガマゲロゲ",
+    "en": "seismitoad",
+    "apiName": "seismitoad",
+    "types": [
+      "water",
+      "ground"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ナゲキ",
+    "en": "throh",
+    "apiName": "throh",
+    "types": [
+      "fighting"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ダゲキ",
+    "en": "sawk",
+    "apiName": "sawk",
+    "types": [
+      "fighting"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "クルミル",
+    "en": "sewaddle",
+    "apiName": "sewaddle",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "クルマユ",
+    "en": "swadloon",
+    "apiName": "swadloon",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ハハコモリ",
+    "en": "leavanny",
+    "apiName": "leavanny",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "フシデ",
+    "en": "venipede",
+    "apiName": "venipede",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ホイーガ",
+    "en": "whirlipede",
+    "apiName": "whirlipede",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ペンドラー",
+    "en": "scolipede",
+    "apiName": "scolipede",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "モンメン",
+    "en": "cottonee",
+    "apiName": "cottonee",
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "エルフーン",
+    "en": "whimsicott",
+    "apiName": "whimsicott",
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "チュリネ",
+    "en": "petilil",
+    "apiName": "petilil",
+    "types": [
+      "grass"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ドレディア",
+    "en": "lilligant",
+    "apiName": "lilligant",
+    "types": [
+      "grass"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "バスラオ",
+    "en": "basculin",
+    "apiName": "basculin-red-striped",
+    "types": [
+      "water"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "メグロコ",
+    "en": "sandile",
+    "apiName": "sandile",
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ワルビル",
+    "en": "krokorok",
+    "apiName": "krokorok",
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ワルビアル",
+    "en": "krookodile",
+    "apiName": "krookodile",
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ダルマッカ",
+    "en": "darumaka",
+    "apiName": "darumaka",
+    "types": [
+      "fire"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ヒヒダルマ",
+    "en": "darmanitan",
+    "apiName": "darmanitan-standard",
+    "types": [
+      "fire"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "マラカッチ",
+    "en": "maractus",
+    "apiName": "maractus",
+    "types": [
+      "grass"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "イシズマイ",
+    "en": "dwebble",
+    "apiName": "dwebble",
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "イワパレス",
+    "en": "crustle",
+    "apiName": "crustle",
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ズルッグ",
+    "en": "scraggy",
+    "apiName": "scraggy",
+    "types": [
+      "dark",
+      "fighting"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ズルズキン",
+    "en": "scrafty",
+    "apiName": "scrafty",
+    "types": [
+      "dark",
+      "fighting"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "シンボラー",
+    "en": "sigilyph",
+    "apiName": "sigilyph",
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "デスマス",
+    "en": "yamask",
+    "apiName": "yamask",
+    "types": [
+      "ghost"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "デスカーン",
+    "en": "cofagrigus",
+    "apiName": "cofagrigus",
+    "types": [
+      "ghost"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "プロトーガ",
+    "en": "tirtouga",
+    "apiName": "tirtouga",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "アバゴーラ",
+    "en": "carracosta",
+    "apiName": "carracosta",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "アーケン",
+    "en": "archen",
+    "apiName": "archen",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "アーケオス",
+    "en": "archeops",
+    "apiName": "archeops",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ヤブクロン",
+    "en": "trubbish",
+    "apiName": "trubbish",
+    "types": [
+      "poison"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ダストダス",
+    "en": "garbodor",
+    "apiName": "garbodor",
+    "types": [
+      "poison"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ゾロア",
+    "en": "zorua",
+    "apiName": "zorua",
+    "types": [
+      "dark"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ゾロアーク",
+    "en": "zoroark",
+    "apiName": "zoroark",
+    "types": [
+      "dark"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "チラーミィ",
+    "en": "minccino",
+    "apiName": "minccino",
+    "types": [
+      "normal"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "チラチーノ",
+    "en": "cinccino",
+    "apiName": "cinccino",
+    "types": [
+      "normal"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ゴチム",
+    "en": "gothita",
+    "apiName": "gothita",
+    "types": [
+      "psychic"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ゴチミル",
+    "en": "gothorita",
+    "apiName": "gothorita",
+    "types": [
+      "psychic"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ゴチルゼル",
+    "en": "gothitelle",
+    "apiName": "gothitelle",
+    "types": [
+      "psychic"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ユニラン",
+    "en": "solosis",
+    "apiName": "solosis",
+    "types": [
+      "psychic"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ダブラン",
+    "en": "duosion",
+    "apiName": "duosion",
+    "types": [
+      "psychic"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ランクルス",
+    "en": "reuniclus",
+    "apiName": "reuniclus",
+    "types": [
+      "psychic"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "コアルヒー",
+    "en": "ducklett",
+    "apiName": "ducklett",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "スワンナ",
+    "en": "swanna",
+    "apiName": "swanna",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "バニプッチ",
+    "en": "vanillite",
+    "apiName": "vanillite",
+    "types": [
+      "ice"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "バニリッチ",
+    "en": "vanillish",
+    "apiName": "vanillish",
+    "types": [
+      "ice"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "バイバニラ",
+    "en": "vanilluxe",
+    "apiName": "vanilluxe",
+    "types": [
+      "ice"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "シキジカ",
+    "en": "deerling",
+    "apiName": "deerling",
+    "types": [
+      "normal",
+      "grass"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "メブキジカ",
+    "en": "sawsbuck",
+    "apiName": "sawsbuck",
+    "types": [
+      "normal",
+      "grass"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "エモンガ",
+    "en": "emolga",
+    "apiName": "emolga",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "カブルモ",
+    "en": "karrablast",
+    "apiName": "karrablast",
+    "types": [
+      "bug"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "シュバルゴ",
+    "en": "escavalier",
+    "apiName": "escavalier",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "タマゲタケ",
+    "en": "foongus",
+    "apiName": "foongus",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "モロバレル",
+    "en": "amoonguss",
+    "apiName": "amoonguss",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "プルリル",
+    "en": "frillish",
+    "apiName": "frillish-male",
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ブルンゲル",
+    "en": "jellicent",
+    "apiName": "jellicent-male",
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ママンボウ",
+    "en": "alomomola",
+    "apiName": "alomomola",
+    "types": [
+      "water"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "バチュル",
+    "en": "joltik",
+    "apiName": "joltik",
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "デンチュラ",
+    "en": "galvantula",
+    "apiName": "galvantula",
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "テッシード",
+    "en": "ferroseed",
+    "apiName": "ferroseed",
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ナットレイ",
+    "en": "ferrothorn",
+    "apiName": "ferrothorn",
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ギアル",
+    "en": "klink",
+    "apiName": "klink",
+    "types": [
+      "steel"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ギギアル",
+    "en": "klang",
+    "apiName": "klang",
+    "types": [
+      "steel"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ギギギアル",
+    "en": "klinklang",
+    "apiName": "klinklang",
+    "types": [
+      "steel"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "シビシラス",
+    "en": "tynamo",
+    "apiName": "tynamo",
+    "types": [
+      "electric"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "シビビール",
+    "en": "eelektrik",
+    "apiName": "eelektrik",
+    "types": [
+      "electric"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "シビルドン",
+    "en": "eelektross",
+    "apiName": "eelektross",
+    "types": [
+      "electric"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "リグレー",
+    "en": "elgyem",
+    "apiName": "elgyem",
+    "types": [
+      "psychic"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "オーベム",
+    "en": "beheeyem",
+    "apiName": "beheeyem",
+    "types": [
+      "psychic"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ヒトモシ",
+    "en": "litwick",
+    "apiName": "litwick",
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ランプラー",
+    "en": "lampent",
+    "apiName": "lampent",
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "シャンデラ",
+    "en": "chandelure",
+    "apiName": "chandelure",
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "キバゴ",
+    "en": "axew",
+    "apiName": "axew",
+    "types": [
+      "dragon"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "オノンド",
+    "en": "fraxure",
+    "apiName": "fraxure",
+    "types": [
+      "dragon"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "オノノクス",
+    "en": "haxorus",
+    "apiName": "haxorus",
+    "types": [
+      "dragon"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "クマシュン",
+    "en": "cubchoo",
+    "apiName": "cubchoo",
+    "types": [
+      "ice"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ツンベアー",
+    "en": "beartic",
+    "apiName": "beartic",
+    "types": [
+      "ice"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "フリージオ",
+    "en": "cryogonal",
+    "apiName": "cryogonal",
+    "types": [
+      "ice"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "チョボマキ",
+    "en": "shelmet",
+    "apiName": "shelmet",
+    "types": [
+      "bug"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "アギルダー",
+    "en": "accelgor",
+    "apiName": "accelgor",
+    "types": [
+      "bug"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "マッギョ",
+    "en": "stunfisk",
+    "apiName": "stunfisk",
+    "types": [
+      "ground",
+      "electric"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "コジョフー",
+    "en": "mienfoo",
+    "apiName": "mienfoo",
+    "types": [
+      "fighting"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "コジョンド",
+    "en": "mienshao",
+    "apiName": "mienshao",
+    "types": [
+      "fighting"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "クリムガン",
+    "en": "druddigon",
+    "apiName": "druddigon",
+    "types": [
+      "dragon"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ゴビット",
+    "en": "golett",
+    "apiName": "golett",
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ゴルーグ",
+    "en": "golurk",
+    "apiName": "golurk",
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "コマタナ",
+    "en": "pawniard",
+    "apiName": "pawniard",
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "キリキザン",
+    "en": "bisharp",
+    "apiName": "bisharp",
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "バッフロン",
+    "en": "bouffalant",
+    "apiName": "bouffalant",
+    "types": [
+      "normal"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ワシボン",
+    "en": "rufflet",
+    "apiName": "rufflet",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ウォーグル",
+    "en": "braviary",
+    "apiName": "braviary",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "バルチャイ",
+    "en": "vullaby",
+    "apiName": "vullaby",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "バルジーナ",
+    "en": "mandibuzz",
+    "apiName": "mandibuzz",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "クイタラン",
+    "en": "heatmor",
+    "apiName": "heatmor",
+    "types": [
+      "fire"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "アイアント",
+    "en": "durant",
+    "apiName": "durant",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "モノズ",
+    "en": "deino",
+    "apiName": "deino",
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ジヘッド",
+    "en": "zweilous",
+    "apiName": "zweilous",
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "サザンドラ",
+    "en": "hydreigon",
+    "apiName": "hydreigon",
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "メラルバ",
+    "en": "larvesta",
+    "apiName": "larvesta",
+    "types": [
+      "bug",
+      "fire"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ウルガモス",
+    "en": "volcarona",
+    "apiName": "volcarona",
+    "types": [
+      "bug",
+      "fire"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "コバルオン",
+    "en": "cobalion",
+    "apiName": "cobalion",
+    "types": [
+      "steel",
+      "fighting"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "テラキオン",
+    "en": "terrakion",
+    "apiName": "terrakion",
+    "types": [
+      "rock",
+      "fighting"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ビリジオン",
+    "en": "virizion",
+    "apiName": "virizion",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "トルネロス",
+    "en": "tornadus",
+    "apiName": "tornadus-incarnate",
+    "types": [
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ボルトロス",
+    "en": "thundurus",
+    "apiName": "thundurus-incarnate",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "レシラム",
+    "en": "reshiram",
+    "apiName": "reshiram",
+    "types": [
+      "dragon",
+      "fire"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ゼクロム",
+    "en": "zekrom",
+    "apiName": "zekrom",
+    "types": [
+      "dragon",
+      "electric"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ランドロス",
+    "en": "landorus",
+    "apiName": "landorus-incarnate",
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "キュレム",
+    "en": "kyurem",
+    "apiName": "kyurem",
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ケルディオ",
+    "en": "keldeo",
+    "apiName": "keldeo-ordinary",
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "メロエッタ",
+    "en": "meloetta",
+    "apiName": "meloetta-aria",
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ゲノセクト",
+    "en": "genesect",
+    "apiName": "genesect",
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "generation": 5
+  },
+  {
+    "ja": "ハリマロン",
+    "en": "chespin",
+    "apiName": "chespin",
+    "types": [
+      "grass"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ハリボーグ",
+    "en": "quilladin",
+    "apiName": "quilladin",
+    "types": [
+      "grass"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ブリガロン",
+    "en": "chesnaught",
+    "apiName": "chesnaught",
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "フォッコ",
+    "en": "fennekin",
+    "apiName": "fennekin",
+    "types": [
+      "fire"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "テールナー",
+    "en": "braixen",
+    "apiName": "braixen",
+    "types": [
+      "fire"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "マフォクシー",
+    "en": "delphox",
+    "apiName": "delphox",
+    "types": [
+      "fire",
+      "psychic"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ケロマツ",
+    "en": "froakie",
+    "apiName": "froakie",
+    "types": [
+      "water"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ゲコガシラ",
+    "en": "frogadier",
+    "apiName": "frogadier",
+    "types": [
+      "water"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ゲッコウガ",
+    "en": "greninja",
+    "apiName": "greninja",
+    "types": [
+      "water",
+      "dark"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ホルビー",
+    "en": "bunnelby",
+    "apiName": "bunnelby",
+    "types": [
+      "normal"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ホルード",
+    "en": "diggersby",
+    "apiName": "diggersby",
+    "types": [
+      "normal",
+      "ground"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ヤヤコマ",
+    "en": "fletchling",
+    "apiName": "fletchling",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ヒノヤコマ",
+    "en": "fletchinder",
+    "apiName": "fletchinder",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ファイアロー",
+    "en": "talonflame",
+    "apiName": "talonflame",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "コフキムシ",
+    "en": "scatterbug",
+    "apiName": "scatterbug",
+    "types": [
+      "bug"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "コフーライ",
+    "en": "spewpa",
+    "apiName": "spewpa",
+    "types": [
+      "bug"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ビビヨン",
+    "en": "vivillon",
+    "apiName": "vivillon",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "シシコ",
+    "en": "litleo",
+    "apiName": "litleo",
+    "types": [
+      "fire",
+      "normal"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "カエンジシ",
+    "en": "pyroar",
+    "apiName": "pyroar-male",
+    "types": [
+      "fire",
+      "normal"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "フラベベ",
+    "en": "flabebe",
+    "apiName": "flabebe",
+    "types": [
+      "fairy"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "フラエッテ",
+    "en": "floette",
+    "apiName": "floette",
+    "types": [
+      "fairy"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "フラージェス",
+    "en": "florges",
+    "apiName": "florges",
+    "types": [
+      "fairy"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "メェークル",
+    "en": "skiddo",
+    "apiName": "skiddo",
+    "types": [
+      "grass"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ゴーゴート",
+    "en": "gogoat",
+    "apiName": "gogoat",
+    "types": [
+      "grass"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ヤンチャム",
+    "en": "pancham",
+    "apiName": "pancham",
+    "types": [
+      "fighting"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ゴロンダ",
+    "en": "pangoro",
+    "apiName": "pangoro",
+    "types": [
+      "fighting",
+      "dark"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "トリミアン",
+    "en": "furfrou",
+    "apiName": "furfrou",
+    "types": [
+      "normal"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ニャスパー",
+    "en": "espurr",
+    "apiName": "espurr",
+    "types": [
+      "psychic"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ニャオニクス",
+    "en": "meowstic",
+    "apiName": "meowstic-male",
+    "types": [
+      "psychic"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ヒトツキ",
+    "en": "honedge",
+    "apiName": "honedge",
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ニダンギル",
+    "en": "doublade",
+    "apiName": "doublade",
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ギルガルド",
+    "en": "aegislash",
+    "apiName": "aegislash-shield",
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "シュシュプ",
+    "en": "spritzee",
+    "apiName": "spritzee",
+    "types": [
+      "fairy"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "フレフワン",
+    "en": "aromatisse",
+    "apiName": "aromatisse",
+    "types": [
+      "fairy"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ペロッパフ",
+    "en": "swirlix",
+    "apiName": "swirlix",
+    "types": [
+      "fairy"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ペロリーム",
+    "en": "slurpuff",
+    "apiName": "slurpuff",
+    "types": [
+      "fairy"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "マーイーカ",
+    "en": "inkay",
+    "apiName": "inkay",
+    "types": [
+      "dark",
+      "psychic"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "カラマネロ",
+    "en": "malamar",
+    "apiName": "malamar",
+    "types": [
+      "dark",
+      "psychic"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "カメテテ",
+    "en": "binacle",
+    "apiName": "binacle",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ガメノデス",
+    "en": "barbaracle",
+    "apiName": "barbaracle",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "クズモー",
+    "en": "skrelp",
+    "apiName": "skrelp",
+    "types": [
+      "poison",
+      "water"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ドラミドロ",
+    "en": "dragalge",
+    "apiName": "dragalge",
+    "types": [
+      "poison",
+      "dragon"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ウデッポウ",
+    "en": "clauncher",
+    "apiName": "clauncher",
+    "types": [
+      "water"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ブロスター",
+    "en": "clawitzer",
+    "apiName": "clawitzer",
+    "types": [
+      "water"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "エリキテル",
+    "en": "helioptile",
+    "apiName": "helioptile",
+    "types": [
+      "electric",
+      "normal"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "エレザード",
+    "en": "heliolisk",
+    "apiName": "heliolisk",
+    "types": [
+      "electric",
+      "normal"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "チゴラス",
+    "en": "tyrunt",
+    "apiName": "tyrunt",
+    "types": [
+      "rock",
+      "dragon"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ガチゴラス",
+    "en": "tyrantrum",
+    "apiName": "tyrantrum",
+    "types": [
+      "rock",
+      "dragon"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "アマルス",
+    "en": "amaura",
+    "apiName": "amaura",
+    "types": [
+      "rock",
+      "ice"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "アマルルガ",
+    "en": "aurorus",
+    "apiName": "aurorus",
+    "types": [
+      "rock",
+      "ice"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ニンフィア",
+    "en": "sylveon",
+    "apiName": "sylveon",
+    "types": [
+      "fairy"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ルチャブル",
+    "en": "hawlucha",
+    "apiName": "hawlucha",
+    "types": [
+      "fighting",
+      "flying"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "デデンネ",
+    "en": "dedenne",
+    "apiName": "dedenne",
+    "types": [
+      "electric",
+      "fairy"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "メレシー",
+    "en": "carbink",
+    "apiName": "carbink",
+    "types": [
+      "rock",
+      "fairy"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ヌメラ",
+    "en": "goomy",
+    "apiName": "goomy",
+    "types": [
+      "dragon"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ヌメイル",
+    "en": "sliggoo",
+    "apiName": "sliggoo",
+    "types": [
+      "dragon"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ヌメルゴン",
+    "en": "goodra",
+    "apiName": "goodra",
+    "types": [
+      "dragon"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "クレッフィ",
+    "en": "klefki",
+    "apiName": "klefki",
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ボクレー",
+    "en": "phantump",
+    "apiName": "phantump",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "オーロット",
+    "en": "trevenant",
+    "apiName": "trevenant",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "バケッチャ",
+    "en": "pumpkaboo",
+    "apiName": "pumpkaboo-average",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "パンプジン",
+    "en": "gourgeist",
+    "apiName": "gourgeist-average",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "カチコール",
+    "en": "bergmite",
+    "apiName": "bergmite",
+    "types": [
+      "ice"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "クレベース",
+    "en": "avalugg",
+    "apiName": "avalugg",
+    "types": [
+      "ice"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "オンバット",
+    "en": "noibat",
+    "apiName": "noibat",
+    "types": [
+      "flying",
+      "dragon"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "オンバーン",
+    "en": "noivern",
+    "apiName": "noivern",
+    "types": [
+      "flying",
+      "dragon"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ゼルネアス",
+    "en": "xerneas",
+    "apiName": "xerneas",
+    "types": [
+      "fairy"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "イベルタル",
+    "en": "yveltal",
+    "apiName": "yveltal",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ジガルデ",
+    "en": "zygarde",
+    "apiName": "zygarde-50",
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ディアンシー",
+    "en": "diancie",
+    "apiName": "diancie",
+    "types": [
+      "rock",
+      "fairy"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "フーパ",
+    "en": "hoopa",
+    "apiName": "hoopa",
+    "types": [
+      "psychic",
+      "ghost"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "ボルケニオン",
+    "en": "volcanion",
+    "apiName": "volcanion",
+    "types": [
+      "fire",
+      "water"
+    ],
+    "generation": 6
+  },
+  {
+    "ja": "モクロー",
+    "en": "rowlet",
+    "apiName": "rowlet",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "フクスロー",
+    "en": "dartrix",
+    "apiName": "dartrix",
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ジュナイパー",
+    "en": "decidueye",
+    "apiName": "decidueye",
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ニャビー",
+    "en": "litten",
+    "apiName": "litten",
+    "types": [
+      "fire"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ニャヒート",
+    "en": "torracat",
+    "apiName": "torracat",
+    "types": [
+      "fire"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ガオガエン",
+    "en": "incineroar",
+    "apiName": "incineroar",
+    "types": [
+      "fire",
+      "dark"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "アシマリ",
+    "en": "popplio",
+    "apiName": "popplio",
+    "types": [
+      "water"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "オシャマリ",
+    "en": "brionne",
+    "apiName": "brionne",
+    "types": [
+      "water"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "アシレーヌ",
+    "en": "primarina",
+    "apiName": "primarina",
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ツツケラ",
+    "en": "pikipek",
+    "apiName": "pikipek",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ケララッパ",
+    "en": "trumbeak",
+    "apiName": "trumbeak",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ドデカバシ",
+    "en": "toucannon",
+    "apiName": "toucannon",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ヤングース",
+    "en": "yungoos",
+    "apiName": "yungoos",
+    "types": [
+      "normal"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "デカグース",
+    "en": "gumshoos",
+    "apiName": "gumshoos",
+    "types": [
+      "normal"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "アゴジムシ",
+    "en": "grubbin",
+    "apiName": "grubbin",
+    "types": [
+      "bug"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "デンヂムシ",
+    "en": "charjabug",
+    "apiName": "charjabug",
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "クワガノン",
+    "en": "vikavolt",
+    "apiName": "vikavolt",
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "マケンカニ",
+    "en": "crabrawler",
+    "apiName": "crabrawler",
+    "types": [
+      "fighting"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ケケンカニ",
+    "en": "crabominable",
+    "apiName": "crabominable",
+    "types": [
+      "fighting",
+      "ice"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "オドリドリ",
+    "en": "oricorio",
+    "apiName": "oricorio-baile",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "アブリー",
+    "en": "cutiefly",
+    "apiName": "cutiefly",
+    "types": [
+      "bug",
+      "fairy"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "アブリボン",
+    "en": "ribombee",
+    "apiName": "ribombee",
+    "types": [
+      "bug",
+      "fairy"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "イワンコ",
+    "en": "rockruff",
+    "apiName": "rockruff",
+    "types": [
+      "rock"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ルガルガン",
+    "en": "lycanroc",
+    "apiName": "lycanroc-midday",
+    "types": [
+      "rock"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ヨワシ",
+    "en": "wishiwashi",
+    "apiName": "wishiwashi-solo",
+    "types": [
+      "water"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ヒドイデ",
+    "en": "mareanie",
+    "apiName": "mareanie",
+    "types": [
+      "poison",
+      "water"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ドヒドイデ",
+    "en": "toxapex",
+    "apiName": "toxapex",
+    "types": [
+      "poison",
+      "water"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ドロバンコ",
+    "en": "mudbray",
+    "apiName": "mudbray",
+    "types": [
+      "ground"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "バンバドロ",
+    "en": "mudsdale",
+    "apiName": "mudsdale",
+    "types": [
+      "ground"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "シズクモ",
+    "en": "dewpider",
+    "apiName": "dewpider",
+    "types": [
+      "water",
+      "bug"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "オニシズクモ",
+    "en": "araquanid",
+    "apiName": "araquanid",
+    "types": [
+      "water",
+      "bug"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "カリキリ",
+    "en": "fomantis",
+    "apiName": "fomantis",
+    "types": [
+      "grass"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ラランテス",
+    "en": "lurantis",
+    "apiName": "lurantis",
+    "types": [
+      "grass"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ネマシュ",
+    "en": "morelull",
+    "apiName": "morelull",
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "マシェード",
+    "en": "shiinotic",
+    "apiName": "shiinotic",
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ヤトウモリ",
+    "en": "salandit",
+    "apiName": "salandit",
+    "types": [
+      "poison",
+      "fire"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "エンニュート",
+    "en": "salazzle",
+    "apiName": "salazzle",
+    "types": [
+      "poison",
+      "fire"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ヌイコグマ",
+    "en": "stufful",
+    "apiName": "stufful",
+    "types": [
+      "normal",
+      "fighting"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "キテルグマ",
+    "en": "bewear",
+    "apiName": "bewear",
+    "types": [
+      "normal",
+      "fighting"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "アマカジ",
+    "en": "bounsweet",
+    "apiName": "bounsweet",
+    "types": [
+      "grass"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "アママイコ",
+    "en": "steenee",
+    "apiName": "steenee",
+    "types": [
+      "grass"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "アマージョ",
+    "en": "tsareena",
+    "apiName": "tsareena",
+    "types": [
+      "grass"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "キュワワー",
+    "en": "comfey",
+    "apiName": "comfey",
+    "types": [
+      "fairy"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ヤレユータン",
+    "en": "oranguru",
+    "apiName": "oranguru",
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ナゲツケサル",
+    "en": "passimian",
+    "apiName": "passimian",
+    "types": [
+      "fighting"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "コソクムシ",
+    "en": "wimpod",
+    "apiName": "wimpod",
+    "types": [
+      "bug",
+      "water"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "グソクムシャ",
+    "en": "golisopod",
+    "apiName": "golisopod",
+    "types": [
+      "bug",
+      "water"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "スナバァ",
+    "en": "sandygast",
+    "apiName": "sandygast",
+    "types": [
+      "ghost",
+      "ground"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "シロデスナ",
+    "en": "palossand",
+    "apiName": "palossand",
+    "types": [
+      "ghost",
+      "ground"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ナマコブシ",
+    "en": "pyukumuku",
+    "apiName": "pyukumuku",
+    "types": [
+      "water"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "タイプ：ヌル",
+    "en": "type-null",
+    "apiName": "type-null",
+    "types": [
+      "normal"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "シルヴァディ",
+    "en": "silvally",
+    "apiName": "silvally",
+    "types": [
+      "normal"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "メテノ",
+    "en": "minior",
+    "apiName": "minior-red-meteor",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ネッコアラ",
+    "en": "komala",
+    "apiName": "komala",
+    "types": [
+      "normal"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "バクガメス",
+    "en": "turtonator",
+    "apiName": "turtonator",
+    "types": [
+      "fire",
+      "dragon"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "トゲデマル",
+    "en": "togedemaru",
+    "apiName": "togedemaru",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ミミッキュ",
+    "en": "mimikyu",
+    "apiName": "mimikyu-disguised",
+    "types": [
+      "ghost",
+      "fairy"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ハギギシリ",
+    "en": "bruxish",
+    "apiName": "bruxish",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ジジーロン",
+    "en": "drampa",
+    "apiName": "drampa",
+    "types": [
+      "normal",
+      "dragon"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ダダリン",
+    "en": "dhelmise",
+    "apiName": "dhelmise",
+    "types": [
+      "ghost",
+      "grass"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ジャラコ",
+    "en": "jangmo-o",
+    "apiName": "jangmo-o",
+    "types": [
+      "dragon"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ジャランゴ",
+    "en": "hakamo-o",
+    "apiName": "hakamo-o",
+    "types": [
+      "dragon",
+      "fighting"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ジャラランガ",
+    "en": "kommo-o",
+    "apiName": "kommo-o",
+    "types": [
+      "dragon",
+      "fighting"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "カプ・コケコ",
+    "en": "tapu-koko",
+    "apiName": "tapu-koko",
+    "types": [
+      "electric",
+      "fairy"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "カプ・テテフ",
+    "en": "tapu-lele",
+    "apiName": "tapu-lele",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "カプ・ブルル",
+    "en": "tapu-bulu",
+    "apiName": "tapu-bulu",
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "カプ・レヒレ",
+    "en": "tapu-fini",
+    "apiName": "tapu-fini",
+    "types": [
+      "water",
+      "fairy"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "コスモッグ",
+    "en": "cosmog",
+    "apiName": "cosmog",
+    "types": [
+      "psychic"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "コスモウム",
+    "en": "cosmoem",
+    "apiName": "cosmoem",
+    "types": [
+      "psychic"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ソルガレオ",
+    "en": "solgaleo",
+    "apiName": "solgaleo",
+    "types": [
+      "psychic",
+      "steel"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ルナアーラ",
+    "en": "lunala",
+    "apiName": "lunala",
+    "types": [
+      "psychic",
+      "ghost"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ウツロイド",
+    "en": "nihilego",
+    "apiName": "nihilego",
+    "types": [
+      "rock",
+      "poison"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "マッシブーン",
+    "en": "buzzwole",
+    "apiName": "buzzwole",
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "フェローチェ",
+    "en": "pheromosa",
+    "apiName": "pheromosa",
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "デンジュモク",
+    "en": "xurkitree",
+    "apiName": "xurkitree",
+    "types": [
+      "electric"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "テッカグヤ",
+    "en": "celesteela",
+    "apiName": "celesteela",
+    "types": [
+      "steel",
+      "flying"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "カミツルギ",
+    "en": "kartana",
+    "apiName": "kartana",
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "アクジキング",
+    "en": "guzzlord",
+    "apiName": "guzzlord",
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ネクロズマ",
+    "en": "necrozma",
+    "apiName": "necrozma",
+    "types": [
+      "psychic"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "マギアナ",
+    "en": "magearna",
+    "apiName": "magearna",
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "マーシャドー",
+    "en": "marshadow",
+    "apiName": "marshadow",
+    "types": [
+      "fighting",
+      "ghost"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ベベノム",
+    "en": "poipole",
+    "apiName": "poipole",
+    "types": [
+      "poison"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "アーゴヨン",
+    "en": "naganadel",
+    "apiName": "naganadel",
+    "types": [
+      "poison",
+      "dragon"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ツンデツンデ",
+    "en": "stakataka",
+    "apiName": "stakataka",
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ズガドーン",
+    "en": "blacephalon",
+    "apiName": "blacephalon",
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "ゼラオラ",
+    "en": "zeraora",
+    "apiName": "zeraora",
+    "types": [
+      "electric"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "メルタン",
+    "en": "meltan",
+    "apiName": "meltan",
+    "types": [
+      "steel"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "メルメタル",
+    "en": "melmetal",
+    "apiName": "melmetal",
+    "types": [
+      "steel"
+    ],
+    "generation": 7
+  },
+  {
+    "ja": "サルノリ",
+    "en": "grookey",
+    "apiName": "grookey",
+    "types": [
+      "grass"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "バチンキー",
+    "en": "thwackey",
+    "apiName": "thwackey",
+    "types": [
+      "grass"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ゴリランダー",
+    "en": "rillaboom",
+    "apiName": "rillaboom",
+    "types": [
+      "grass"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ヒバニー",
+    "en": "scorbunny",
+    "apiName": "scorbunny",
+    "types": [
+      "fire"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ラビフット",
+    "en": "raboot",
+    "apiName": "raboot",
+    "types": [
+      "fire"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "エースバーン",
+    "en": "cinderace",
+    "apiName": "cinderace",
+    "types": [
+      "fire"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "メッソン",
+    "en": "sobble",
+    "apiName": "sobble",
+    "types": [
+      "water"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ジメレオン",
+    "en": "drizzile",
+    "apiName": "drizzile",
+    "types": [
+      "water"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "インテレオン",
+    "en": "inteleon",
+    "apiName": "inteleon",
+    "types": [
+      "water"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ホシガリス",
+    "en": "skwovet",
+    "apiName": "skwovet",
+    "types": [
+      "normal"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ヨクバリス",
+    "en": "greedent",
+    "apiName": "greedent",
+    "types": [
+      "normal"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ココガラ",
+    "en": "rookidee",
+    "apiName": "rookidee",
+    "types": [
+      "flying"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "アオガラス",
+    "en": "corvisquire",
+    "apiName": "corvisquire",
+    "types": [
+      "flying"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "アーマーガア",
+    "en": "corviknight",
+    "apiName": "corviknight",
+    "types": [
+      "flying",
+      "steel"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "サッチムシ",
+    "en": "blipbug",
+    "apiName": "blipbug",
+    "types": [
+      "bug"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "レドームシ",
+    "en": "dottler",
+    "apiName": "dottler",
+    "types": [
+      "bug",
+      "psychic"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "イオルブ",
+    "en": "orbeetle",
+    "apiName": "orbeetle",
+    "types": [
+      "bug",
+      "psychic"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "クスネ",
+    "en": "nickit",
+    "apiName": "nickit",
+    "types": [
+      "dark"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "フォクスライ",
+    "en": "thievul",
+    "apiName": "thievul",
+    "types": [
+      "dark"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ヒメンカ",
+    "en": "gossifleur",
+    "apiName": "gossifleur",
+    "types": [
+      "grass"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ワタシラガ",
+    "en": "eldegoss",
+    "apiName": "eldegoss",
+    "types": [
+      "grass"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ウールー",
+    "en": "wooloo",
+    "apiName": "wooloo",
+    "types": [
+      "normal"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "バイウールー",
+    "en": "dubwool",
+    "apiName": "dubwool",
+    "types": [
+      "normal"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "カムカメ",
+    "en": "chewtle",
+    "apiName": "chewtle",
+    "types": [
+      "water"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "カジリガメ",
+    "en": "drednaw",
+    "apiName": "drednaw",
+    "types": [
+      "water",
+      "rock"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ワンパチ",
+    "en": "yamper",
+    "apiName": "yamper",
+    "types": [
+      "electric"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "パルスワン",
+    "en": "boltund",
+    "apiName": "boltund",
+    "types": [
+      "electric"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "タンドン",
+    "en": "rolycoly",
+    "apiName": "rolycoly",
+    "types": [
+      "rock"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "トロッゴン",
+    "en": "carkol",
+    "apiName": "carkol",
+    "types": [
+      "rock",
+      "fire"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "セキタンザン",
+    "en": "coalossal",
+    "apiName": "coalossal",
+    "types": [
+      "rock",
+      "fire"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "カジッチュ",
+    "en": "applin",
+    "apiName": "applin",
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "アップリュー",
+    "en": "flapple",
+    "apiName": "flapple",
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "タルップル",
+    "en": "appletun",
+    "apiName": "appletun",
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "スナヘビ",
+    "en": "silicobra",
+    "apiName": "silicobra",
+    "types": [
+      "ground"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "サダイジャ",
+    "en": "sandaconda",
+    "apiName": "sandaconda",
+    "types": [
+      "ground"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ウッウ",
+    "en": "cramorant",
+    "apiName": "cramorant",
+    "types": [
+      "flying",
+      "water"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "サシカマス",
+    "en": "arrokuda",
+    "apiName": "arrokuda",
+    "types": [
+      "water"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "カマスジョー",
+    "en": "barraskewda",
+    "apiName": "barraskewda",
+    "types": [
+      "water"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "エレズン",
+    "en": "toxel",
+    "apiName": "toxel",
+    "types": [
+      "electric",
+      "poison"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ストリンダー",
+    "en": "toxtricity",
+    "apiName": "toxtricity-amped",
+    "types": [
+      "electric",
+      "poison"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ヤクデ",
+    "en": "sizzlipede",
+    "apiName": "sizzlipede",
+    "types": [
+      "fire",
+      "bug"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "マルヤクデ",
+    "en": "centiskorch",
+    "apiName": "centiskorch",
+    "types": [
+      "fire",
+      "bug"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "タタッコ",
+    "en": "clobbopus",
+    "apiName": "clobbopus",
+    "types": [
+      "fighting"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "オトスパス",
+    "en": "grapploct",
+    "apiName": "grapploct",
+    "types": [
+      "fighting"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ヤバチャ",
+    "en": "sinistea",
+    "apiName": "sinistea",
+    "types": [
+      "ghost"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ポットデス",
+    "en": "polteageist",
+    "apiName": "polteageist",
+    "types": [
+      "ghost"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ミブリム",
+    "en": "hatenna",
+    "apiName": "hatenna",
+    "types": [
+      "psychic"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "テブリム",
+    "en": "hattrem",
+    "apiName": "hattrem",
+    "types": [
+      "psychic"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ブリムオン",
+    "en": "hatterene",
+    "apiName": "hatterene",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ベロバー",
+    "en": "impidimp",
+    "apiName": "impidimp",
+    "types": [
+      "dark",
+      "fairy"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ギモー",
+    "en": "morgrem",
+    "apiName": "morgrem",
+    "types": [
+      "dark",
+      "fairy"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "オーロンゲ",
+    "en": "grimmsnarl",
+    "apiName": "grimmsnarl",
+    "types": [
+      "dark",
+      "fairy"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "タチフサグマ",
+    "en": "obstagoon",
+    "apiName": "obstagoon",
+    "types": [
+      "dark",
+      "normal"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ニャイキング",
+    "en": "perrserker",
+    "apiName": "perrserker",
+    "types": [
+      "steel"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "サニゴーン",
+    "en": "cursola",
+    "apiName": "cursola",
+    "types": [
+      "ghost"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ネギガナイト",
+    "en": "sirfetchd",
+    "apiName": "sirfetchd",
+    "types": [
+      "fighting"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "バリコオル",
+    "en": "mr-rime",
+    "apiName": "mr-rime",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "デスバーン",
+    "en": "runerigus",
+    "apiName": "runerigus",
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "マホミル",
+    "en": "milcery",
+    "apiName": "milcery",
+    "types": [
+      "fairy"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "マホイップ",
+    "en": "alcremie",
+    "apiName": "alcremie",
+    "types": [
+      "fairy"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "タイレーツ",
+    "en": "falinks",
+    "apiName": "falinks",
+    "types": [
+      "fighting"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "バチンウニ",
+    "en": "pincurchin",
+    "apiName": "pincurchin",
+    "types": [
+      "electric"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ユキハミ",
+    "en": "snom",
+    "apiName": "snom",
+    "types": [
+      "ice",
+      "bug"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "モスノウ",
+    "en": "frosmoth",
+    "apiName": "frosmoth",
+    "types": [
+      "ice",
+      "bug"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "イシヘンジン",
+    "en": "stonjourner",
+    "apiName": "stonjourner",
+    "types": [
+      "rock"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "コオリッポ",
+    "en": "eiscue",
+    "apiName": "eiscue-ice",
+    "types": [
+      "ice"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "イエッサン",
+    "en": "indeedee",
+    "apiName": "indeedee-male",
+    "types": [
+      "psychic",
+      "normal"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "モルペコ",
+    "en": "morpeko",
+    "apiName": "morpeko-full-belly",
+    "types": [
+      "electric",
+      "dark"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ゾウドウ",
+    "en": "cufant",
+    "apiName": "cufant",
+    "types": [
+      "steel"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ダイオウドウ",
+    "en": "copperajah",
+    "apiName": "copperajah",
+    "types": [
+      "steel"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "パッチラゴン",
+    "en": "dracozolt",
+    "apiName": "dracozolt",
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "パッチルドン",
+    "en": "arctozolt",
+    "apiName": "arctozolt",
+    "types": [
+      "electric",
+      "ice"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ウオノラゴン",
+    "en": "dracovish",
+    "apiName": "dracovish",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ウオチルドン",
+    "en": "arctovish",
+    "apiName": "arctovish",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ジュラルドン",
+    "en": "duraludon",
+    "apiName": "duraludon",
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ドラメシヤ",
+    "en": "dreepy",
+    "apiName": "dreepy",
+    "types": [
+      "dragon",
+      "ghost"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ドロンチ",
+    "en": "drakloak",
+    "apiName": "drakloak",
+    "types": [
+      "dragon",
+      "ghost"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ドラパルト",
+    "en": "dragapult",
+    "apiName": "dragapult",
+    "types": [
+      "dragon",
+      "ghost"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ザシアン",
+    "en": "zacian",
+    "apiName": "zacian",
+    "types": [
+      "fairy"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ザマゼンタ",
+    "en": "zamazenta",
+    "apiName": "zamazenta",
+    "types": [
+      "fighting"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ムゲンダイナ",
+    "en": "eternatus",
+    "apiName": "eternatus",
+    "types": [
+      "poison",
+      "dragon"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ダクマ",
+    "en": "kubfu",
+    "apiName": "kubfu",
+    "types": [
+      "fighting"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ウーラオス",
+    "en": "urshifu",
+    "apiName": "urshifu-single-strike",
+    "types": [
+      "fighting",
+      "dark"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ザルード",
+    "en": "zarude",
+    "apiName": "zarude",
+    "types": [
+      "dark",
+      "grass"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "レジエレキ",
+    "en": "regieleki",
+    "apiName": "regieleki",
+    "types": [
+      "electric"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "レジドラゴ",
+    "en": "regidrago",
+    "apiName": "regidrago",
+    "types": [
+      "dragon"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ブリザポス",
+    "en": "glastrier",
+    "apiName": "glastrier",
+    "types": [
+      "ice"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "レイスポス",
+    "en": "spectrier",
+    "apiName": "spectrier",
+    "types": [
+      "ghost"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "バドレックス",
+    "en": "calyrex",
+    "apiName": "calyrex",
+    "types": [
+      "psychic",
+      "grass"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "アヤシシ",
+    "en": "wyrdeer",
+    "apiName": "wyrdeer",
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "バサギリ",
+    "en": "kleavor",
+    "apiName": "kleavor",
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ガチグマ",
+    "en": "ursaluna",
+    "apiName": "ursaluna",
+    "types": [
+      "ground",
+      "normal"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "イダイトウ",
+    "en": "basculegion",
+    "apiName": "basculegion-male",
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "オオニューラ",
+    "en": "sneasler",
+    "apiName": "sneasler",
+    "types": [
+      "fighting",
+      "poison"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ハリーマン",
+    "en": "overqwil",
+    "apiName": "overqwil",
+    "types": [
+      "dark",
+      "poison"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ラブトロス",
+    "en": "enamorus",
+    "apiName": "enamorus-incarnate",
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "generation": 8
+  },
+  {
+    "ja": "ニャオハ",
+    "en": "sprigatito",
+    "apiName": "sprigatito",
+    "types": [
+      "grass"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ニャローテ",
+    "en": "floragato",
+    "apiName": "floragato",
+    "types": [
+      "grass"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "マスカーニャ",
+    "en": "meowscarada",
+    "apiName": "meowscarada",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ホゲータ",
+    "en": "fuecoco",
+    "apiName": "fuecoco",
+    "types": [
+      "fire"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "アチゲータ",
+    "en": "crocalor",
+    "apiName": "crocalor",
+    "types": [
+      "fire"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ラウドボーン",
+    "en": "skeledirge",
+    "apiName": "skeledirge",
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "クワッス",
+    "en": "quaxly",
+    "apiName": "quaxly",
+    "types": [
+      "water"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ウェルカモ",
+    "en": "quaxwell",
+    "apiName": "quaxwell",
+    "types": [
+      "water"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ウェーニバル",
+    "en": "quaquaval",
+    "apiName": "quaquaval",
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "グルトン",
+    "en": "lechonk",
+    "apiName": "lechonk",
+    "types": [
+      "normal"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "パフュートン",
+    "en": "oinkologne",
+    "apiName": "oinkologne-male",
+    "types": [
+      "normal"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "タマンチュラ",
+    "en": "tarountula",
+    "apiName": "tarountula",
+    "types": [
+      "bug"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ワナイダー",
+    "en": "spidops",
+    "apiName": "spidops",
+    "types": [
+      "bug"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "マメバッタ",
+    "en": "nymble",
+    "apiName": "nymble",
+    "types": [
+      "bug"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "エクスレッグ",
+    "en": "lokix",
+    "apiName": "lokix",
+    "types": [
+      "bug",
+      "dark"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "パモ",
+    "en": "pawmi",
+    "apiName": "pawmi",
+    "types": [
+      "electric"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "パモット",
+    "en": "pawmo",
+    "apiName": "pawmo",
+    "types": [
+      "electric",
+      "fighting"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "パーモット",
+    "en": "pawmot",
+    "apiName": "pawmot",
+    "types": [
+      "electric",
+      "fighting"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ワッカネズミ",
+    "en": "tandemaus",
+    "apiName": "tandemaus",
+    "types": [
+      "normal"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "イッカネズミ",
+    "en": "maushold",
+    "apiName": "maushold-family-of-four",
+    "types": [
+      "normal"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "パピモッチ",
+    "en": "fidough",
+    "apiName": "fidough",
+    "types": [
+      "fairy"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "バウッツェル",
+    "en": "dachsbun",
+    "apiName": "dachsbun",
+    "types": [
+      "fairy"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ミニーブ",
+    "en": "smoliv",
+    "apiName": "smoliv",
+    "types": [
+      "grass",
+      "normal"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "オリーニョ",
+    "en": "dolliv",
+    "apiName": "dolliv",
+    "types": [
+      "grass",
+      "normal"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "オリーヴァ",
+    "en": "arboliva",
+    "apiName": "arboliva",
+    "types": [
+      "grass",
+      "normal"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "イキリンコ",
+    "en": "squawkabilly",
+    "apiName": "squawkabilly-green-plumage",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "コジオ",
+    "en": "nacli",
+    "apiName": "nacli",
+    "types": [
+      "rock"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ジオヅム",
+    "en": "naclstack",
+    "apiName": "naclstack",
+    "types": [
+      "rock"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "キョジオーン",
+    "en": "garganacl",
+    "apiName": "garganacl",
+    "types": [
+      "rock"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "カルボウ",
+    "en": "charcadet",
+    "apiName": "charcadet",
+    "types": [
+      "fire"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "グレンアルマ",
+    "en": "armarouge",
+    "apiName": "armarouge",
+    "types": [
+      "fire",
+      "psychic"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ソウブレイズ",
+    "en": "ceruledge",
+    "apiName": "ceruledge",
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ズピカ",
+    "en": "tadbulb",
+    "apiName": "tadbulb",
+    "types": [
+      "electric"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ハラバリー",
+    "en": "bellibolt",
+    "apiName": "bellibolt",
+    "types": [
+      "electric"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "カイデン",
+    "en": "wattrel",
+    "apiName": "wattrel",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "タイカイデン",
+    "en": "kilowattrel",
+    "apiName": "kilowattrel",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "オラチフ",
+    "en": "maschiff",
+    "apiName": "maschiff",
+    "types": [
+      "dark"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "マフィティフ",
+    "en": "mabosstiff",
+    "apiName": "mabosstiff",
+    "types": [
+      "dark"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "シルシュルー",
+    "en": "shroodle",
+    "apiName": "shroodle",
+    "types": [
+      "poison",
+      "normal"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "タギングル",
+    "en": "grafaiai",
+    "apiName": "grafaiai",
+    "types": [
+      "poison",
+      "normal"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "アノクサ",
+    "en": "bramblin",
+    "apiName": "bramblin",
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "アノホラグサ",
+    "en": "brambleghast",
+    "apiName": "brambleghast",
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ノノクラゲ",
+    "en": "toedscool",
+    "apiName": "toedscool",
+    "types": [
+      "ground",
+      "grass"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "リククラゲ",
+    "en": "toedscruel",
+    "apiName": "toedscruel",
+    "types": [
+      "ground",
+      "grass"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ガケガニ",
+    "en": "klawf",
+    "apiName": "klawf",
+    "types": [
+      "rock"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "カプサイジ",
+    "en": "capsakid",
+    "apiName": "capsakid",
+    "types": [
+      "grass"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "スコヴィラン",
+    "en": "scovillain",
+    "apiName": "scovillain",
+    "types": [
+      "grass",
+      "fire"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "シガロコ",
+    "en": "rellor",
+    "apiName": "rellor",
+    "types": [
+      "bug"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ベラカス",
+    "en": "rabsca",
+    "apiName": "rabsca",
+    "types": [
+      "bug",
+      "psychic"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ヒラヒナ",
+    "en": "flittle",
+    "apiName": "flittle",
+    "types": [
+      "psychic"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "クエスパトラ",
+    "en": "espathra",
+    "apiName": "espathra",
+    "types": [
+      "psychic"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "カヌチャン",
+    "en": "tinkatink",
+    "apiName": "tinkatink",
+    "types": [
+      "fairy",
+      "steel"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ナカヌチャン",
+    "en": "tinkatuff",
+    "apiName": "tinkatuff",
+    "types": [
+      "fairy",
+      "steel"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "デカヌチャン",
+    "en": "tinkaton",
+    "apiName": "tinkaton",
+    "types": [
+      "fairy",
+      "steel"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ウミディグダ",
+    "en": "wiglett",
+    "apiName": "wiglett",
+    "types": [
+      "water"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ウミトリオ",
+    "en": "wugtrio",
+    "apiName": "wugtrio",
+    "types": [
+      "water"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "オトシドリ",
+    "en": "bombirdier",
+    "apiName": "bombirdier",
+    "types": [
+      "flying",
+      "dark"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ナミイルカ",
+    "en": "finizen",
+    "apiName": "finizen",
+    "types": [
+      "water"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "イルカマン",
+    "en": "palafin",
+    "apiName": "palafin-zero",
+    "types": [
+      "water"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ブロロン",
+    "en": "varoom",
+    "apiName": "varoom",
+    "types": [
+      "steel",
+      "poison"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ブロロローム",
+    "en": "revavroom",
+    "apiName": "revavroom",
+    "types": [
+      "steel",
+      "poison"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "モトトカゲ",
+    "en": "cyclizar",
+    "apiName": "cyclizar",
+    "types": [
+      "dragon",
+      "normal"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ミミズズ",
+    "en": "orthworm",
+    "apiName": "orthworm",
+    "types": [
+      "steel"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "キラーメ",
+    "en": "glimmet",
+    "apiName": "glimmet",
+    "types": [
+      "rock",
+      "poison"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "キラフロル",
+    "en": "glimmora",
+    "apiName": "glimmora",
+    "types": [
+      "rock",
+      "poison"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ボチ",
+    "en": "greavard",
+    "apiName": "greavard",
+    "types": [
+      "ghost"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ハカドッグ",
+    "en": "houndstone",
+    "apiName": "houndstone",
+    "types": [
+      "ghost"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "カラミンゴ",
+    "en": "flamigo",
+    "apiName": "flamigo",
+    "types": [
+      "flying",
+      "fighting"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "アルクジラ",
+    "en": "cetoddle",
+    "apiName": "cetoddle",
+    "types": [
+      "ice"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ハルクジラ",
+    "en": "cetitan",
+    "apiName": "cetitan",
+    "types": [
+      "ice"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ミガルーサ",
+    "en": "veluza",
+    "apiName": "veluza",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ヘイラッシャ",
+    "en": "dondozo",
+    "apiName": "dondozo",
+    "types": [
+      "water"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "シャリタツ",
+    "en": "tatsugiri",
+    "apiName": "tatsugiri-curly",
+    "types": [
+      "dragon",
+      "water"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "コノヨザル",
+    "en": "annihilape",
+    "apiName": "annihilape",
+    "types": [
+      "fighting",
+      "ghost"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ドオー",
+    "en": "clodsire",
+    "apiName": "clodsire",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "リキキリン",
+    "en": "farigiraf",
+    "apiName": "farigiraf",
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ノココッチ",
+    "en": "dudunsparce",
+    "apiName": "dudunsparce-two-segment",
+    "types": [
+      "normal"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ドドゲザン",
+    "en": "kingambit",
+    "apiName": "kingambit",
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "イダイナキバ",
+    "en": "great-tusk",
+    "apiName": "great-tusk",
+    "types": [
+      "ground",
+      "fighting"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "サケブシッポ",
+    "en": "scream-tail",
+    "apiName": "scream-tail",
+    "types": [
+      "fairy",
+      "psychic"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "アラブルタケ",
+    "en": "brute-bonnet",
+    "apiName": "brute-bonnet",
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ハバタクカミ",
+    "en": "flutter-mane",
+    "apiName": "flutter-mane",
+    "types": [
+      "ghost",
+      "fairy"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "チヲハウハネ",
+    "en": "slither-wing",
+    "apiName": "slither-wing",
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "スナノケガワ",
+    "en": "sandy-shocks",
+    "apiName": "sandy-shocks",
+    "types": [
+      "electric",
+      "ground"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "テツノワダチ",
+    "en": "iron-treads",
+    "apiName": "iron-treads",
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "テツノツツミ",
+    "en": "iron-bundle",
+    "apiName": "iron-bundle",
+    "types": [
+      "ice",
+      "water"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "テツノカイナ",
+    "en": "iron-hands",
+    "apiName": "iron-hands",
+    "types": [
+      "fighting",
+      "electric"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "テツノコウベ",
+    "en": "iron-jugulis",
+    "apiName": "iron-jugulis",
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "テツノドクガ",
+    "en": "iron-moth",
+    "apiName": "iron-moth",
+    "types": [
+      "fire",
+      "poison"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "テツノイバラ",
+    "en": "iron-thorns",
+    "apiName": "iron-thorns",
+    "types": [
+      "rock",
+      "electric"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "セビエ",
+    "en": "frigibax",
+    "apiName": "frigibax",
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "セゴール",
+    "en": "arctibax",
+    "apiName": "arctibax",
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "セグレイブ",
+    "en": "baxcalibur",
+    "apiName": "baxcalibur",
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "コレクレー",
+    "en": "gimmighoul",
+    "apiName": "gimmighoul",
+    "types": [
+      "ghost"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "サーフゴー",
+    "en": "gholdengo",
+    "apiName": "gholdengo",
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "チオンジェン",
+    "en": "wo-chien",
+    "apiName": "wo-chien",
+    "types": [
+      "dark",
+      "grass"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "パオジアン",
+    "en": "chien-pao",
+    "apiName": "chien-pao",
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ディンルー",
+    "en": "ting-lu",
+    "apiName": "ting-lu",
+    "types": [
+      "dark",
+      "ground"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "イーユイ",
+    "en": "chi-yu",
+    "apiName": "chi-yu",
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "トドロクツキ",
+    "en": "roaring-moon",
+    "apiName": "roaring-moon",
+    "types": [
+      "dragon",
+      "dark"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "テツノブジン",
+    "en": "iron-valiant",
+    "apiName": "iron-valiant",
+    "types": [
+      "fairy",
+      "fighting"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "コライドン",
+    "en": "koraidon",
+    "apiName": "koraidon",
+    "types": [
+      "fighting",
+      "dragon"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ミライドン",
+    "en": "miraidon",
+    "apiName": "miraidon",
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ウネルミナモ",
+    "en": "walking-wake",
+    "apiName": "walking-wake",
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "テツノイサハ",
+    "en": "iron-leaves",
+    "apiName": "iron-leaves",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "カミッチュ",
+    "en": "dipplin",
+    "apiName": "dipplin",
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "チャデス",
+    "en": "poltchageist",
+    "apiName": "poltchageist",
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ヤバソチャ",
+    "en": "sinistcha",
+    "apiName": "sinistcha",
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "イイネイヌ",
+    "en": "okidogi",
+    "apiName": "okidogi",
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "マシマシラ",
+    "en": "munkidori",
+    "apiName": "munkidori",
+    "types": [
+      "poison",
+      "psychic"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "キチキギス",
+    "en": "fezandipiti",
+    "apiName": "fezandipiti",
+    "types": [
+      "poison",
+      "fairy"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "オーガポン",
+    "en": "ogerpon",
+    "apiName": "ogerpon",
+    "types": [
+      "grass"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ブリジュラス",
+    "en": "archaludon",
+    "apiName": "archaludon",
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "カミツオロチ",
+    "en": "hydrapple",
+    "apiName": "hydrapple",
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "ウガツホムラ",
+    "en": "gouging-fire",
+    "apiName": "gouging-fire",
+    "types": [
+      "fire",
+      "dragon"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "タケルライコ",
+    "en": "raging-bolt",
+    "apiName": "raging-bolt",
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "テツノイワオ",
+    "en": "iron-boulder",
+    "apiName": "iron-boulder",
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "テツノカシラ",
+    "en": "iron-crown",
+    "apiName": "iron-crown",
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "テラパゴス",
+    "en": "terapagos",
+    "apiName": "terapagos",
+    "types": [
+      "normal"
+    ],
+    "generation": 9
+  },
+  {
+    "ja": "モモワロウ",
+    "en": "pecharunt",
+    "apiName": "pecharunt",
+    "types": [
+      "poison",
+      "ghost"
+    ],
+    "generation": 9
+  }
+]

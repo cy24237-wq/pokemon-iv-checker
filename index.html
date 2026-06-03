@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>ポケモンSV 個体値チェッカー</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <h1>ポケモンSV 個体値チェッカー</h1>
+
+    <div class="container">
+
+        <!-- ポケモン名入力 -->
+        <input id="name"
+            placeholder="ポケモン名 例：ピカチュウ"
+            oninput="showSuggestions()">
+
+        <div id="suggestionArea"></div>
+
+
+        <!-- ポケモン取得 -->
+        <button onclick="getPokemon()">
+
+            ポケモン取得
+
+        </button>
+
+
+        <!-- 画像 -->
+        <img id="pokemonImage">
+
+
+        <!-- ポケモン情報 -->
+        <p id="pokemonInfo"></p>
+
+
+        <!-- 個体値入力 -->
+        <input id="hp"
+               type="number"
+               min="0"
+               max="31"
+               placeholder="HP 個体値">
+
+        <input id="atk"
+               type="number"
+               min="0"
+               max="31"
+               placeholder="攻撃 個体値">
+
+        <input id="def"
+               type="number"
+               min="0"
+               max="31"
+               placeholder="防御 個体値">
+
+        <input id="spa"
+               type="number"
+               min="0"
+               max="31"
+               placeholder="特攻 個体値">
+
+        <input id="spd"
+               type="number"
+               min="0"
+               max="31"
+               placeholder="特防 個体値">
+
+        <input id="spe"
+               type="number"
+               min="0"
+               max="31"
+               placeholder="素早さ 個体値">
+
+
+        <!-- 判定 -->
+        <button onclick="checkIV()">
+
+            判定する
+
+        </button>
+
+
+        <!-- 保存 -->
+        <button onclick="savePokemon()">
+
+            保存する
+
+        </button>
+
+
+        <hr>
+
+
+        <!-- OCR -->
+        <h2>OCR画像読み取り</h2>
+
+        <input type="file"
+               id="imageInput"
+               accept="image/*">
+
+
+        <!-- 結果 -->
+        <div class="result">
+
+            <h2 id="rank"></h2>
+
+            <div id="judgeArea"></div>
+
+            <p id="comment"></p>
+
+            <canvas id="radarChart"></canvas>
+
+        </div>
+
+
+        <!-- 保存一覧 -->
+        <div class="saveArea">
+
+            <h2>保存一覧</h2>
+
+            <ul id="saveList"></ul>
+
+        </div>
+
+    </div>
+
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+
+    <!-- OCR -->
+    <script src="https://unpkg.com/tesseract.js@v2.1.0/dist/tesseract.min.js"></script>
+
+
+    <!-- script -->
+    <script src="script.js"></script>
+
+</body>
+
+</html>
