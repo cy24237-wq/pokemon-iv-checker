@@ -65,7 +65,7 @@ PokeAPIから取得したデータをJavaScriptで加工し、アプリケーシ
 
 1. デモサイトにアクセスする
 https://cy24237-wq.github.io/pokemon-iv-checker/
-<img width="389" height="674" alt="image" src="https://github.com/user-attachments/assets/2f758a69-bf1f-4ad6-87cf-8efe5481d7cb" />
+<img width="389" height="574" alt="image" src="https://github.com/user-attachments/assets/2f758a69-bf1f-4ad6-87cf-8efe5481d7cb" />
 
 
 ## 工夫した点
