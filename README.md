@@ -124,11 +124,23 @@ https://cy24237-wq.github.io/pokemon-iv-checker/
 
 
 3. 表示された候補からポケモンを選択する
-<img width="389" height="574" alt="image" src="https://github.com/user-attachments/assets/65439614-9764-47bf-9f1f-bbabc71729a9" />
+<img width="389" height="574" alt="image" src="https://github.com/user-attachments/assets/c51c8f95-f492-458b-829c-38217874cc00" />
 
 
 4. 個体値を入力
 条件：個体値は0~31
+<img width="389" height="574" alt="image" src="https://github.com/user-attachments/assets/8f536ffd-ea3b-499a-8360-75f73ea6b3eb" />
+
+
+5. 判定する
+
+<img width="389" height="574" alt="image" src="https://github.com/user-attachments/assets/c165081c-afcd-4183-b52b-6c0b561f416c" /><img width="389" height="574" alt="image" src="https://github.com/user-attachments/assets/ef7505f5-f5f3-435e-9282-389f195f6059" />
+
+
+6. おまけ機能-ポケモンを保存
+保存ボタンを押す
+<img width="509" height="574" alt="image" src="https://github.com/user-attachments/assets/b2839817-1024-4ec6-bd12-f176d3050727" />
+
 
 ## 工夫した点
 ### 1. APIを活用したデータ取得
